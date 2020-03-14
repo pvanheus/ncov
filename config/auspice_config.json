@@ -1,5 +1,5 @@
 {
-  "title": "Genomic epidemiology of novel coronavirus (nCoV)",
+  "title": "Genomic epidemiology of novel coronavirus (hCoV-19)",
   "build_url": "https://github.com/nextstrain/ncov",
   "colorings": [
     {
@@ -20,6 +20,16 @@
     {
       "key": "host",
       "title": "Host",
+      "type": "categorical"
+    },
+    {
+      "key": "age",
+      "title": "Age",
+      "type": "continuous"
+    },
+    {
+      "key": "sex",
+      "title": "Sex",
       "type": "categorical"
     },
     {
@@ -51,13 +61,15 @@
   ],
   "display_defaults": {
     "color_by": "division",
-    "distance_measure": "div",
+    "distance_measure": "num_date",
     "geo_resolution": "division",
-    "map_triplicate": true
+    "map_triplicate": true,
+    "branch_label": "none"
   },
   "filters": [
     "location",
     "division",
+    "division_exposure",
     "country",
     "host",
     "author",
