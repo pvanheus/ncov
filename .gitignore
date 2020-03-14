@@ -8,6 +8,7 @@ data/ncov.fasta-e
 data/sequences.fasta
 data/*ndjson
 config/colors.tsv
+data/raw
 
 # Sensitive environment variables
 environment*
