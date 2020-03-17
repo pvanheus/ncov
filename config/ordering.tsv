@@ -78,11 +78,14 @@ location	Milan
 location	valencia
 location	England
 location	Yorkshire
+location	Cardiff
 location	Rovaniemi
 location	Jönköping
 location	Helsinki
 location	Sao Paulo
 location	Rio de Janeiro
+location	feira de santana
+location	vila velha
 location	Mexico City
 location	King County
 location	Snohomish County
@@ -168,6 +171,7 @@ division	South Holland
 division	North Holland
 division	Luxembourg
 division	Basel
+division	Bern
 division	Zurich
 division	Aargau
 division	Geneva
