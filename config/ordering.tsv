@@ -62,28 +62,40 @@ location	Tilburg
 location	Helmond
 location	Oisterwijk
 location	Dalen
+location	Nantes
+location	Crépy en Valois
 location	Paris
+location	Reims
+location	Pontoise
+location	Compiègne
 location	Contamines
+location	Rouen
 location	Leuven
 location	Starnberg
+location	Strasbourg
 location	Rome
 location	Milan
 location	valencia
 location	England
 location	Yorkshire
-location	Cork
 location	Rovaniemi
 location	Jönköping
 location	Helsinki
 location	Sao Paulo
+location	Rio de Janeiro
 location	Mexico City
-location	Seattle
+location	King County
+location	Snohomish County
+location	Pierce County
 location	Solano County
 location	Sonoma County
 location	Orange County
+location	Kirkland
+location	Seattle
 location	Los Angeles
 location	California
 location	San Francisco
+location	San Diego County
 location	Snohomish County
 location	King County
 location	Phoenix
@@ -91,6 +103,8 @@ location	Chicago
 location	Illinois
 location	Wisconsin
 location	Boston
+location	Nassau County
+
 
 division	Hubei
 division	Beijing
@@ -129,10 +143,18 @@ division	New South Wales
 division	Victoria
 division	Auckland
 division	Ile de France
+division	Pays de la Loire
+division	Hauts de France
+division	Normandie
+division	Grand Est
 division	Auvergne Rhone Alpes
 division	Flanders
+division	Leuven
+division	Sint-Niklaas
+division	Kraainem
+division	Huldenberg
+division	Brussels
 division	Bavaria
-
 division	Baden-Wuerttemberg
 division	North Rhine Westphalia
 division	Utrecht
@@ -156,20 +178,25 @@ division	Italy
 division	Lazio
 division	Lombardy
 division	Usti nad Labem
+division	Northern Ireland
 division	England
 division	Wales
-division	Cork
 division	Dublin
 division	Limerick
 division	Scotland
-division	Lapland
 division	Småland
 division	Helsinki
+division	Finland
 division	Portugal
 division	Lagos
+division	Kinshasa
 division	Santiago
 division	Talca
 division	Sao Paulo
+division	Espirito Santo
+division	Bahia
+division	Rio de Janeiro
+division	Panama City
 division	Mexico City
 division	Texas
 division	Arizona
@@ -211,8 +238,17 @@ country	Finland
 country	Sweden
 country	Portugal
 country	Nigeria
+country	Congo
 country	Chile
 country	Brazil
+country	Panama
 country	Mexico
 country	USA
 country	Canada
+
+recency	Older
+recency	One month ago
+recency	One week ago
+recency	3-7 days ago
+recency	1-2 days ago
+recency	New
