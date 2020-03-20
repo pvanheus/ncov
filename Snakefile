@@ -1,3 +1,7 @@
+from os import environ
+from socket import getfqdn
+from getpass import getuser
+
 def get_todays_date():
     from datetime import datetime
     date = datetime.today().strftime('%Y-%m-%d')
@@ -34,12 +38,12 @@ files = rules.files.params
 rule download:
     message: "Downloading metadata and fasta files from S3"
     output:
-        sequences = "data/sequences.fasta",
-        metadata = "data/metadata.tsv"
+        sequences = config["sequences"],
+        metadata = config["metadata"]
     shell:
         """
-        aws s3 cp s3://nextstrain-ncov-private/sequences.fasta data/
-        aws s3 cp s3://nextstrain-ncov-private/metadata.tsv data/
+        aws s3 cp s3://nextstrain-ncov-private/sequences.fasta {output.sequences:q}
+        aws s3 cp s3://nextstrain-ncov-private/metadata.tsv {output.metadata:q}
         """
 
 rule filter:
@@ -504,11 +508,22 @@ rule branching_process_R0:
                     --output {output[1]}
         """
 
+try:
+    deploy_origin = (
+        f"from AWS Batch job `{environ['AWS_BATCH_JOB_ID']}`"
+        if environ.get("AWS_BATCH_JOB_ID") else
+        f"by the hands of {getuser()}@{getfqdn()}"
+    )
+except:
+    # getuser() and getfqdn() may not always succeed, and this catch-all except
+    # means that the Snakefile won't crash.
+    deploy_origin = "by an unknown identity"
+
 rule deploy_to_staging:
     input:
         *rules.all.input
     params:
-        slack_message = json.dumps({"text":"Deployed <https://nextstrain.org/staging/ncov|nextstrain.org/staging/ncov>"}),
+        slack_message = json.dumps({"text":f"Deployed <https://nextstrain.org/staging/ncov|nextstrain.org/staging/ncov> {deploy_origin}"}),
         slack_webhook = config["slack_webhook"] or "",
         s3_staging_url = config["s3_staging_url"]
     shell:

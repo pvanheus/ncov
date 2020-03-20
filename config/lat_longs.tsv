@@ -6,6 +6,7 @@ location	Beijing	40.071320	116.406908
 location	Berlicum	51.6789	5.4012
 location	Blaricum	52.2727	5.2481
 location	Boston	42.354750	-71.061299
+location	Brasilia	-15.814189	-47.875543
 location	California	36.357039	-119.690182
 location	Cardiff	51.476291	-3.178964
 location	Chengdu	30.640989	104.067518
@@ -128,6 +129,7 @@ division	Bern	46.855135	7.570549
 division	British Columbia	54.010982	-124.745183
 division	Brussels	50.8503	4.3517
 division	California	36.357039	-119.690182
+division	China	33.394333	104.689839
 division	Chongqing	29.858721	107.375623
 division	Chungcheongnam	36.685948	126.799198
 division	Comunitat Valenciana	39.337	-0.354
@@ -136,6 +138,7 @@ division	Diamond Princess	35.046935	139.419325
 division	Drenthe	52.846963	6.608915
 division	Dublin	53.343100	-6.262191
 division	England	52.405994	-1.671707
+division	Europe	48.684312	13.651501
 division	Espirito Santo	-19.1834	-40.3089
 division	Finland	61.751734	26.186437
 division	Flanders	51.056536	4.254283
@@ -145,6 +148,7 @@ division	Gelderland	52.042091	6.014860
 division	Geneva	46.216038	6.136984
 division	Grand Est	48.691467	5.566495
 division	Grand Princess	37.579905	-123.673130
+division	Graubünden	46.709551	9.606903
 division	Guangdong	23.615762	114.483257
 division	Gyeonggi	37.397957	127.380864
 division	Hauts de France	49.934396	2.783002
@@ -183,6 +187,7 @@ division	Luxembourg	49.755428	6.119486
 division	Massachusetts	42.340741	-71.998513
 division	Mexico City	19.404497	-99.143041
 division	Minnesota	46.126042	-94.619581
+location	Montreux-Chateau	47.607677	6.994181
 division	Nara	34.371026	135.887389
 division	New South Wales	-32.688430	146.228414
 division	Netherlands	52.1326	5.2913
@@ -201,6 +206,7 @@ division	Queensland	-23.094025	144.192275
 division	Rio de Janeiro	-22.89445	-43.2099
 division	Santiago	-33.383304	-70.530623
 division	Sao Paulo	-23.598060	-46.660537
+division	Schwyz	47.055398	8.736450
 division	Scotland	56.415858	-4.090641
 division	Shandong	36.298013	118.193884
 division	Shanghai	31.171447	121.429896
@@ -214,7 +220,9 @@ division	Småland	57.528294	14.463824
 division	Seoul	37.548278	126.990916
 division	Taiwan	23.816900	121.031365
 division	Talca	-35.462909	-71.370960
+division	Tbilisi	41.733699	44.818487
 division	Texas	31.146868	-99.188758
+location	Thise	47.284553	6.079822
 division	Ticino	46.345334	8.774813
 division	Tilburg	51.567213	5.047957
 division	Thanh Hoa	20.026365	105.439044
@@ -230,6 +238,10 @@ division	Wisconsin	44.535145	-89.527762
 division	Yunnan	24.556297	101.366210
 division	Zhejiang	29.225710	120.299125
 division	Zurich	47.441242	8.641154
+division	Bourgogne-France-Comté	47.2805	4.9994
+division	Taoyuan	24.9936	121.3010
+division	Distrito Federal	-15.7998	-47.8645
 
+country	Georgia	41.989378	43.597463
 country	Luxembourg	49.755428	6.119486
 country	Panama	8.98333	-79.5166

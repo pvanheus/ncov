@@ -69,6 +69,8 @@ location	Reims
 location	Pontoise
 location	Compiègne
 location	Contamines
+location	Thise
+location	Montreux-Chateau
 location	Rouen
 location	Leuven
 location	Starnberg
@@ -83,6 +85,7 @@ location	Rovaniemi
 location	Jönköping
 location	Helsinki
 location	Sao Paulo
+location	Brasilia
 location	Rio de Janeiro
 location	feira de santana
 location	vila velha
@@ -109,6 +112,7 @@ location	Boston
 location	Nassau County
 
 
+division	China
 division	Hubei
 division	Beijing
 division	Anhui
@@ -124,6 +128,7 @@ division	Guangdong
 division	Shanghai
 division	Hong Kong
 division	Taiwan
+division	Taoyuan
 division	Aichi
 division	Tokyo
 division	Nara
@@ -137,6 +142,7 @@ division	South Korea
 division	Kathmandu
 division	Kerala
 division	Iran
+division	Tbilisi
 division	Thanh Hoa
 division	Sihanoukville
 division	Nonthaburi
@@ -145,9 +151,11 @@ division	Queensland
 division	New South Wales
 division	Victoria
 division	Auckland
+division	Europe
 division	Ile de France
 division	Pays de la Loire
 division	Hauts de France
+division	Bourgogne-France-Comté
 division	Normandie
 division	Grand Est
 division	Auvergne Rhone Alpes
@@ -178,6 +186,8 @@ division	Aargau
 division	Geneva
 division	Vaud
 division	Ticino
+division	Graubünden
+division	Schwyz
 division	Comunitat Valenciana
 division	Italy
 division	Lazio
@@ -201,6 +211,7 @@ division	Sao Paulo
 division	Espirito Santo
 division	Bahia
 division	Rio de Janeiro
+division	Distrito Federal
 division	Panama City
 division	Mexico City
 division	Texas
@@ -229,6 +240,7 @@ country	Thailand
 country	Singapore
 country	Australia
 country	New Zealand
+country	Georgia
 country	France
 country	Netherlands
 country	Belgium
@@ -258,3 +270,11 @@ recency	One week ago
 recency	3-7 days ago
 recency	1-2 days ago
 recency	New
+
+region	Oceania
+region	Asia
+region	Africa
+region	Europe
+region	North America
+region	Central America
+region	South America

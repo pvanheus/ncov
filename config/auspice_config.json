@@ -1,6 +1,9 @@
 {
-  "title": "Genomic epidemiology of novel coronavirus (hCoV-19)",
+  "title": "Genomic epidemiology of novel coronavirus",
   "build_url": "https://github.com/nextstrain/ncov",
+  "maintainers": [
+    {"name": "the Nextstrain team", "url": "https://nextstrain.org/"}
+  ],
   "colorings": [
     {
       "key": "location",
@@ -15,6 +18,11 @@
     {
       "key": "country",
       "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "region",
+      "title": "Region",
       "type": "categorical"
     },
     {
@@ -51,12 +59,17 @@
       "key": "recency",
       "title": "Submission Date",
       "type": "categorical"
-    },    
+    },
     {
       "key": "gisaid_epi_isl"
     },
     {
       "key": "genbank_accession"
+    },
+    {
+      "key": "division_exposure",
+      "title": "Exposure History",
+      "type": "categorical"
     }
   ],
   "geo_resolutions": [
@@ -78,6 +91,7 @@
     "division_exposure",
     "country",
     "host",
+    "region",
     "author",
     "originating_lab",
     "submitting_lab"

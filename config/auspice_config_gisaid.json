@@ -16,6 +16,11 @@
       "type": "categorical"
     },
     {
+      "key": "region",
+      "title": "Region",
+      "type": "categorical"
+    },
+    {
       "key": "host",
       "title": "Host",
       "type": "categorical"
@@ -55,6 +60,11 @@
     },
     {
       "key": "genbank_accession"
+    },
+    {
+      "key": "division_exposure",
+      "title": "Exposure History",
+      "type": "categorical"
     }
   ],
   "geo_resolutions": [
@@ -76,6 +86,7 @@
     "division_exposure",
     "country",
     "host",
+    "region",
     "author",
     "originating_lab",
     "submitting_lab"

@@ -1,5 +1,5 @@
 ---
-title: 系統発生樹の解読について
+title: 계통수를 읽는 법
 authors:
   - Emma Hodcroft
   - Nicola Müller
@@ -16,12 +16,12 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; Chan Zuckerberg Initiative, CA, USA"
 translators:
-  - Tomoyuki Nezu
-  - Takeshi Sato
-  - Fengjun Zhang
-date: "2020 March 13"
+  - Kyo Bin Kang
+  - Minkyu Kim
+  - Taehoon Ha
+date: "2020년 3월 13일"
 dataset: "https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country"
-abstract: "ここでは、遺伝疫学における系統樹を理解するための方法を説明します。 このWebサイトは、デスクトップブラウザーでの表示用に最適化されています。"
+abstract: "이 문서는 유전체 역학적 정보를 제공하는 계통수를 어떻게 읽고 해석하는지에 대해 다룹니다. 이 웹사이트는 데스크톱 브라우저에 최적화되어 있습니다."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -29,18 +29,18 @@ abstract: "ここでは、遺伝疫学における系統樹を理解するため
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [目次](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
+# [목차](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [伝搬経路と系統樹との関係性](https://nextstrain.org/narratives/trees-background/ja?n=2).  
-* [系統樹の読み方.](https://nextstrain.org/narratives/trees-background/ja?n=3)  
-* [「多様性」パネルと系統樹の関係性.](https://nextstrain.org/narratives/trees-background/ja?n=4)   
-* [「遺伝的相違」を測定](https://nextstrain.org/narratives/trees-background/ja?n=5).  
-* [経時的な差異の測定](https://nextstrain.org/narratives/trees-background/ja?n=6).  
-* [感染症集団発生日](https://nextstrain.org/narratives/trees-background/ja?n=7).
-* [どのように系統樹の性質(色)を解釈すべきか](https://nextstrain.org/narratives/trees-background/ja?n=8).
-* [地図は系統樹とどのように関係しているか](https://nextstrain.org/narratives/trees-background/ja?n=9).
-* [発展的な資料: 系統樹の不確かさ](https://nextstrain.org/narratives/trees-background/ja?n=10).  
-* [データセットについて](https://nextstrain.org/narratives/trees-background/ja?n=11).  
+* [전염병의 전파 경로는 계통수와 어떤 관련이 있는가](https://nextstrain.org/narratives/trees-background/ko?n=2)?  
+* [계통수는 어떻게 읽는가](https://nextstrain.org/narratives/trees-background/ko?n=3)?  
+* ["다양성" 패널은 계통수와 어떤 관련이 있는가](https://nextstrain.org/narratives/trees-background/ko?n=4)?   
+* [유전적 발산 사이의 차이 측정하기](https://nextstrain.org/narratives/trees-background/ko?n=5).  
+* [시간에 따른 차이 측정하기](https://nextstrain.org/narratives/trees-background/ko?n=6).  
+* [바이러스 발생 시점 추정하기](https://nextstrain.org/narratives/trees-background/ko?n=7).  
+* [계통수의 (색깔로 구분된) 특징들을 어떻게 해석해야 합니까](https://nextstrain.org/narratives/trees-background/ko?n=8)?  
+* [지도와 계통수는 어떤 관련이 있는가](https://nextstrain.org/narratives/trees-background/ko?n=9)?  
+* [추가 읽기자료: 계통수의 통계적 불확실성](https://nextstrain.org/narratives/trees-background/ko?n=10).  
+* [데이터셋에 대하여](https://nextstrain.org/narratives/trees-background/ko?n=11).  
 
 <!-- No right-side text -->
 
@@ -48,23 +48,22 @@ abstract: "ここでは、遺伝疫学における系統樹を理解するため
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [伝搬経路と系統樹との関係性](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
-病原体は、ある宿主での迅速な複製と、それに続く別の宿主への伝播によって広がります。 伝染病は、１度の感染で２度以上の感染が起こった場合にのみ発生します。
-<br><br>通常、病原体が複製および拡散するにつれて、そのゲノムを何度も複製する必要があり、ランダムな突然変異（コピーミス）がゲノムに蓄積します。 このようなランダムな変異は、病原体の広がりを追跡し、その伝播経路と動態を知るのに役立ちます。
+# [전염병의 전파 경로는 계통수와 어떤 관련이 있는가?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
+병원체는 숙주의 체내에서 빠르게 증식하여 다른 숙주로 전염됩니다. 전염병은 한 번의 감염이 한 번 이상 뒤따르는 다른 감염으로 이어질 경우에만 유행하게 됩니다.
+<br><br>
+병원체가 증식하고 전파되는 과정에서 병원체의 유전체는 여러 번 복제되고, 이 복제 과정에서 자연적으로 발생하는 오류로 인한 무작위 돌연변이가 유전체에 누적됩니다. 이것은 정상적인 일입니다. 이런 무작위 돌연변이를 통해 병원체의 확산을 추적하고 전파 경로와 역학에 대해 알아낼 수 있습니다.
 
 <!-- This is right-side text -->
-
 ```auspiceMainDisplayMarkdown
-# 伝搬経路の例
+# 예시
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="伝搬経路と系統樹との関係性の図" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
 </p>
 <p>
-上の図は、伝搬経路の模式図です。 各円はケース（感染者）を表し、水平線は感染期間を示します。接続されたケース(
-各円)は、ある人から次の人への伝搬を表します。
+위의 그림은 간략화된 전파 계통수의 예시입니다. 각각의 원은 감염된 환자를 의미하며, 가로 직선은 환자들의 감염 기간을 의미합니다. 연결된 원들은 한 환자로부터 다른 환자로 전염이 이뤄진 경우를 가리킵니다.
 <br> <br>
-ここでは、伝搬経路の全体像を見ることができます。ただし、実際には、ケースの一部のみが採取されます（青丸）。伝搬経路は不明であり、通常、症例数の大まかな推定値のみが利用可能です。遺伝子配列により、伝搬経路の一部を推測できます。この例では、3つの突然変異（小さなひし形）がツリーに示されています。同じ変異を持つ配列はより密接に関連しているため、これらの変異により、サンプルを同じ伝搬経路に属する密接に関連するウイルスのクラスターにグループ化することができます。
+지금 이 그림에서 우리는 병원체 전파 경로의 전체를 보고 있습니다. 그러나 현실에서는 모든 전파 사건이 아니라 몇몇 환자(파란색으로 표시)의 경우에 대해서만 감염체 표본를 얻을 수 있습니다. 따라서 실제 전파 경로는 추적하기가 어려우며, 감염자 숫자에 대한 대략적인 추정만이 가능합니다. 하지만 유전체 염기서열을 분석하면 전파 경로를 짐작할 수 있습니다. 이 예시의 경우, 세 번의 돌연변이(작은 다이아몬드로 표시)가 전파 과정에서 일어났습니다. 같은 돌연변이를 가지고 있는 염기 서열은 상대적으로 서로에게 더 밀접한 관련이 있을 것이며, 따라서 이런 유전체 서열 상의 돌연변이를 기준으로 같은 전파 연쇄에 속하는 밀접하게 관련있는 바이러스들을 각각의 군집들로 묶을 수 있습니다.
 </p>
 </div>
 ```
@@ -73,29 +72,31 @@ abstract: "ここでは、遺伝疫学における系統樹を理解するため
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [系統樹の読み方](https://nextstrain.org/ncov/2020-03-11)
+# [계통수는 어떻게 해석하는가?](https://nextstrain.org/ncov/2020-03-11)
 
-ツリーのx軸は、差異の程度を表します（時間または遺伝的相違です。これらは次で説明します）。描画されるべ系統図が増えれば、y軸方向に描画範囲が伸びていきます。測定単位はありません。
-<br><br>ツリーのヒント（Tips）はサンプル（１つ前のスライドの青丸）を表しています。 内部ノードは、採取されなかったケースを表しますが、それらの子孫のすべてのケースの派生元であると考えられます（つまり、１つ前のスライドの赤丸）。 これらの関係は、採取された症例で観察された突然変異のパターンを分析することにより推測されます。
+계통수의 x축은 변화의 정도(시간 혹은 유전적 분화 - 이후에 자세히 설명합니다)를 의미합니다. y축은 개체들을 퍼뜨려 전체적 양상을 볼 수 있게 해주는 역할을 하며, 어떠한 단위나 값을 가지지 않습니다.
+<br><br>
+계통수의 가지 끝 부분은 표본(이전 슬라이드에서 파란색 원과 같은 경우)을 의미합니다. 가지 안쪽의 분기점은 표본을 채집하지 못했지만 이후에 파생된 모든 감염의 원천으로 추정되는 감염사례(이전 슬라이드에서 빨간색 원과 같은 경우)를 의미합니다. 이런 관계는 채집된 병원체 표본의 돌연변이 패턴을 분석하여 유추할 수 있습니다.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-## 系統樹の例
+## 예시
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="ケースのすべてまたは一部のみが最終系統に含まれる系統発生の例" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-上の図では、左側に系統樹があり、突然変異が色付きの円で示されています。右側には対応する遺伝子配列があり、突然変異も色付きの円で示されています。同じ変異を共有する遺伝子配列がグループ化されていることがわかります。遺伝子配列が A や B のように平らな垂直線でリンクされている場合、これはそれらの間に違いがないことを意味します。つまり遺伝子配列は同一です。
+위의 그림 좌측에는 계통수가 그려져 있으며, 돌연변이가 색이 칠해진 동그라미로 표시되어 있습니다. 우측에는 각 표본에 해당하는 유전체 서열이 표시되어 있으며, 돌연변이가 마찬가지의 방법으로 표시되어 있습니다. 그림에서 공통의 돌연변이를 가지고 있는 표본들이 같은 그룹으로 묶여 있는 것을 볼 수 있습니다. 두 개의 서열이 A와 B의 경우처럼 세로 직선으로 연결되어 있다면, 이는 두 표본의 서열이 완전히 동일하다는 것을 의미합니다.
 <br><br>
-シーケンスが C や E のようにそれ自体で長い行にある場合、これは他のシーケンスには見られない固有の突然変異があることを意味します。ラインが長いほど、突然変異が多くなります。A と B には、他の配列と共有されていない固有の突然変異（緑色の円）もありますが、それらは互いに同一です。
+만약 어떤 서열이 C와 E의 경우처럼 한 직선에 하나만 연결되어 있다면, 이는 해당 표본에서 다른 표본에서는 발견되지 않는 고유의 돌연변이가 발견되었음을 의미합니다. 직선의 길이가 길수록, 더 많은 돌연변이가 존재합니다.
+A와 B 또한 다른 서열에서 발견되지 않는 고유의 돌연변이(녹색 원)을 가지고 있지만, 이들 두 표본의 서열은 서로 동일합니다.
 <br><br>
-以上のことから、このツリーにおいて、A と B、そして D と E は互いに密接に関連していると結論付けられます。また、A と B は、D と E よりも C と密接に関連しています。
+이 계통수를 바탕으로, 우리는 A와 B가, 그리고 D와 E가 각각 매우 가까운 관계임을 알 수 있습니다. 그리고 A와 B는 D와 E보다는 C에게 상대적으로 더 가깝습니다.
 </p>
 
-### 参考文献
-* [How to read a tree: tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
-* [How to read a tree: video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
+### Further reading  
+* [계통수를 읽는 법: Arctic Network의 설명서](https://artic.network/how-to-read-a-tree.html) (영어).  
+* [계통수를 읽는 법: Khan academy의 영상](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees) (영어).  
 
 </div>
 
@@ -105,79 +106,73 @@ abstract: "ここでは、遺伝疫学における系統樹を理解するため
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [「多様性」パネルと系統樹の関係性](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
+# ["다양성" 패널은 계통수와 어떤 관련이 있는가?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
 
-公に共有されている SARS-CoV-2（COVID-19 を引き起こすウイルス）の最初の169 </ tag> 株を見てみましょう。前ページと同様に、これらのウイルス配列を並べました（ここで言及したすべての分析の手法を[GitHub](https://github.com/nextstrain/ncov)で確認できます）。
-<br><br>ここでは、ゲノムの変化（つまり、変異）を示す棒グラフを系統樹の下に表示しています。突然変異が発生した際に系統樹にも変化が現れますので、この２つのグラフは密接に結びついています。
-<br><br>この「多様性」パネルでは、水平軸はウイルスゲノム全領域（すべて3万程度の塩基）です。縦軸は、各部位の塩基変動性を示しています。
-<br><br>これらの突然変異の1つ、この場合は遺伝子「ORF1b」の コドン314 に従ってツリーに色を付けました。この変異が機能的変異であると考える理由はありません（つまり、生物学的に変化はない）。遺伝子配列間の関係を定義し、系統樹を構築するために使用するのは、まさにこのような突然変異です。
+169개의 공개된 SARS-CoV-2 (COVID-19를 유발하는 바이러스) 계통을 살펴 보도록 하겠습니다. 이전 슬라이드에서 보신 것처럼, 우리는 바이러스의 염기서열을 정리해 보았습니다. (여기서 언급된 모든 분석이 어떻게 이루어졌는지는 [Github에서](https://github.com/nextstrain/ncov) 확인할 수 있습니다.
+<br><br>
+오른쪽에 계통수(위)와 염기서열 상 변이(돌연변이)를 보여주는 막대 그래프(아래)를 함께 보여주고 있습니다. 만약 이런 돌연변이들이 없었다면, 계통수를 그릴 수 없었을 것입니다. 따라서 다양성 패널과 계통수는 서로 밀접한 연관성을 가지고 있습니다.
+<br><br>
+이 다양성 패널(아래 그림)에서 가로축은(다 합쳐서 약 3만 개 정도 되는) 바이러스 염기서열 위치를 의미합니다. 반면 세로축은 얼마나 많은 유전적 변이가 있었는지를 보여 줍니다.
+<br><br>
+우리는 이러 돌연변이들 중 하나를 선택하여 이에 따라 나무의 색깔을 다르게 표시했습니다. 여기서 선택된 것은 "ORF1b" 안에 들어 있는 Codon 314입니다. 이 돌연변이가 기능적 변이(즉, 생물학적 변화를 주는 것)라고 여길 마땅한 근거는 아직 없습니다. 보통 이런 종류의 돌연변이는 서열과 서열 사이의 관계를 정의하고, 계통수를 구성하는 데 사용됩니다.
 
 <!-- There is NO right-side text -->
+
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
+# [유전적 발산 사이의 차이 측정하기](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
+이것은 169개의 공개된 SARS-CoV-2(COVID-19를 유발하는 바이러스) 계통을 표시한 계통수입니다.
+<br><br>
+가로 축은 유전적 분화를 나타내며, 이는 계통수의 시작점(즉, 바이러스의 최초 발생 시점)에 대한 유전적 변이(돌연변이)의 횟수를 의미합니다. 일부 서열은 돌연변이가 존재하지 않아 계통수의 뿌리(중앙의 시작점)의 서열과 완전히 동일합니다. 다른 바이러스들은 한 개에서 최대 열한 개의 돌연변이를 보입니다.
+<br><br>
+현재로서는 이 그림이 '나무'처럼 보이지 않을 수 있습니다. 많은 서열들이 동일하기 때문인데, 여기서 동일하다는 의미는 A와 B처럼 동일 수직선 상에 위치한 것을 의미합니다. (일부는 나무의 가장 왼쪽 지점에 위치해 있습니다.) 바이러스들이 몇 개의 서로 같은 돌연변이를 공유하면서도 각자의 고유한 돌연변이를 가지고 있을 경우, '가지'를 형성하며 나무를 오른쪽으로 뻗어 나가게 합니다. 마우스 커서를 가지 위에 올려서 각 가지들이 얼마나 많은 돌연변이들을 가지고 있는지 확인할 수 있습니다.
 
-# [「遺伝的相違」を測定](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
-これは、公に共有されているSARS-CoV-2（COVID-19を引き起こすウイルス）の最初の 169 </ tag> 個の株の系統樹です。
-<br><br>ここで、横軸は遺伝的相違を示します。遺伝的相違（Divergence）とは、系統樹の根（つまり、疫病発生の始まり）に対するゲノムの変化（突然変異）の数です。遺伝子配列によっては、突然変異がゼロの場合があります。つまり、それらはすべてツリーのルート（中心）と同一です。他のウイルスには1〜11個の変異があります。
-<br><br>現時点では、これは「ツリー」のようには見えません。遺伝子配列の多くは同一であり、先の例の A や B のように垂直線上に並んでいます（一部はツリーの左端にあります）。残りは独自の、または共有された突然変異を持っているため、系統樹の「枝」（右に行くライン）に位置しています。系統樹の枝の上にマウスを置くと、突然変異の数を確認できます。
 
 <!-- There is NO right-side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
-# [経時的な差異の測定](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
-x 軸としてサンプル取得日を使用することによって、どれだけウイルスが拡散したかを経時的に可視化することもできます。
-ここでは、 x 軸はそれぞれのウイルスのサンプル取得日を表しています。
-先端の位置ははそのサンプルが採取された日付を反映しています。
-内部の節 -- 「見つかっていない症例」 -- の日付は、その子孫のサンプルが取得された時間とウイルスの変異の速度によって推定されています。
+# [시간에 따른 차이 측정하기](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+시료가 측정된 날짜에 대한 정보를 x축에 표시하여 바이러스가 어떻게 퍼져 나갔는지를 시간에 따라 시각화할 수 있습니다. 이 경우 나무의 끝부분이 위치한 x축 상의 위치가 각 바이러스 표본들이 채집된 날짜를 나타냅니다. 나무의 가지 안쪽 분기점("결측 케이스")의 날짜는 그 하위의 바이러스 표본들이 채집된 시점과 바이러스가 변이되는 속도를 기준으로 추정합니다.
 <br><br>
-先程は一列に並んでいた(同一のゲノムであることを示唆しています)が、時間軸で表示した今度は離れて散らばっている遺伝子配列の数の多さに注目してください。
-ウイルスが拡散する速度よりも、ウイルスに変異が生じる速度のほうがやや遅いとこのようなことが起きます。
-スクロールをすることで一つ前のスライドとこのスライドを行き来して、系統樹がどのように変化するかを見えることができます。
+이전에는 동일 선상에 위치했던(동일한 염기서열을 가졌던) 서열들이 시간이 지남에 따라 얼마나 다양하게 갈라지며 분화되었는지를 확인해 보십시오.
+이런 현상은 바이러스가 변이되는 속도가 확산되는 속도보다 약간 느릴 때 발생합니다. 이전 슬라이드와 본 슬라이드를 위아래로 스크롤하며 나무가 어떻게 변하는지 확인해 보십시오.
+
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [感染症集団発生日](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
-
-ゲノム学を使うと感染拡大が始まった日時を当てはめることもできます。私たちが拡大が起きたということ理解する以前の日時であっても可能です。
-系統樹の各サンプルと節に日付を当てはめていくので、系統樹の「根」の日時を推定するためにこれを使うことができます。
-この図は、私たちが今現在所有している SARS-CoV-2 すべての遺伝子配列の「最近共通祖先」を表しています。
-例えば、ある人とそのいとことすべての「最近共通祖先」はそのひとの祖父です。
+# [바이러스 발생 시점 추정하기](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+유전체학적 지식을 이용하면 언제 바이러스가 발생했는지를, 심지어 우리가 바이러스에 대해 인지하기 이전 시점이라 하더라도, 특정할 수 있습니다. 계통수 상의 각 표본과 내부 분기점에 날짜를 특정할 수 있으므로, 이를 활용하여 나무의 '뿌리' 날짜를 추정할 수 있습니다. 나무의 '뿌리'란 우리가 현재 가지고 있는 모든 SARS-CoV-2 서열들의 "가장 가까운 공통의 조상"을 의미합니다. 이는 마치 당신의 조부모가 당신과 당신의 모든 사촌들의 "가장 가까운 공통 조상"인 것과 비슷한 의미를 갖습니다.
 <br><br>
-一番左の縦のラインをマウスでかざすと、11月半ばから12月半ばの間のこの特定の感染拡大の推定された開始日時を見ることができます。
+오른쪽 그림에서 가장 왼쪽에 위치한 수직선 위에 마우스 커서를 놓으면, 바이러스 발생 추정 시기가 2019년 11월 중순에서 12월 중순 사이로 추정됨을 알 수 있습니다.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [どのように系統樹の性質(色)を解釈すべきか](https://nextstrain.org/ncov/2020-03-11)
-系統樹には追加的な情報が含まれていることがよくあります、例えばサンプルが収集された場所です。
-これによって、数学的モデルを使い内部の節(仮説上の中間者、未収集の症例)の場所を推定することができます。
-これは、ウイルスがある場所から次の場所にどのように移動しているかを理解するのに役立ちます。
+# [계통수에 (색깔로 구분된) 특징들을 어떻게 해석해야 합니까?](https://nextstrain.org/ncov/2020-03-11)
+종종 계통수는 각각의 표본 수집 지역 같은 추가적인 정보를 담고 있습니다. 이러한 정보를 바탕으로, 우리는 수학적 모델을 활용하여 내부 분기점들(표본 채집이 되지 않았지만 존재헀을 것으로 추정되는 바이러스 감염 사례)의 위치를 추정할 수 있습니다. 우리는 이를 통해 바이러스가 한 지역에서 다른 지역으로 어떻게 이동하고 있는지 이해하는 데에 도움을 줍니다.
 <br><br>
-しかし、こういったことは注意して行うべきです、というのもサンプルの採取や遺伝子配列解析、あるいはそれらの不足が解釈に大きな影響を与えることがあるためです。
+하지만 이런 사항을 해석할 때는 항상 주의를 기울여야 합니다. 표본 채집이나 유전체 데이터가 충분하지 않은 경우 결과가 왜곡될 수 있기 때문입니다.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# 例
+# 예시
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="採取のされ方がウイルスの広がりの解釈に与える影響を示す図" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
 </p>
 <p>
-左側にサンプルの取得が完全に行われた系統樹を示しています。オレンジ色と青色で示すようように、2つの異なる場所からのサンプルがあります。
-系統樹を下っていくと、オレンジから青へと色(場所)が切り替わる3つの例を見ることができまる。
-これによって、オレンジ色の場所から青色への場所へと3度の異なった伝搬があったと結論づけることができるでしょう。
+왼쪽 그림은 모든 표본이 완전히 채집된 가상의 계통수이며, 주황색과 파란색으로 각각 서로 다른 두 지역을 구분하였습니다. 나무를 따라 내려가면 색상(지역)이 주황색에서 파란색으로 바뀌는 세 지점을 관찰할 수 있습니다. 이를 통해 우리는 바이러스가 주황색 지역에서 파란색 지역으로 전해질 때 세 건의 전파 사례가 있었다고 결론내릴 수 있을 것입니다.
 <br><br>
-しかし、こういった解釈はサンプルの採取のされ方次第です: 真ん中の系統樹では、オレンジ色ののサンプルを一つ取り除きました。
-このとき、オレンジから青への切り替わりは一つだけ見ることができます。これは青色への伝搬は一度きりで、より早く起きたことを示唆しています。
+하지만, 표본 채집 여부에 따라 이런 분석 결과가 바뀔 수 있습니다. 중앙 그림의 나무를 보면 왼쪽 나무에서 주황색 표본 하나를 제거한 것을 확인 할 수 있습니다. 이제는 주황색 지역에서 파랑색 지역으로 전파되는 오직 하나의 경우만이 관찰됩니다. 그리고 이 전파 사례는 현재보다 더 이전 시점에 발생한 것으로 추정되고 있습니다.
 <br><br>
-最後の例では、オレンジ色からの遺伝子配列は一つだけとなりました。オレンジ色から青色への伝搬は一度だけだと私たちは考えるでしょう。
+오른쪽 그림은 주황색 지역에서 오직 하나의 표본만 가지고 있을 경우의 계통수입니다. 이 경우 우리는 파란색에서 주황색 지역으로 전파되는 한 번의 전파만이 있었다고 해석하게 됩니다.
 <br><br>
-このように、こういった推定は有益ですが、注意して解釈されなければなりません。
+따라서 이런 추론법은 매우 유용하지만, 반드시 주의를 기울여 해석해야 합니다.
 </p>
 ```
 <!-- ############ SLIDE BREAK ############# -->
@@ -185,27 +180,27 @@ x 軸としてサンプル取得日を使用することによって、どれだ
 <!-- This is left-side text -->
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [地図は系統樹とどのように関係しているか](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
+# [지도와 계통수는 어떤 관련이 있는가?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
 
-ここには、各サンプルの場所(と内側の節の推定された場所)によって色分けされた系統樹を示しています。
-"['Explore the data'](https://nextstrain.org/ncov)" をクリックすると、感染拡大の間、どのようにウイルスが拡散していったかという推定をアニメーションとして再生することができます。
+여기서 보여지는 계통수는 각 표본이 채집된 위치(및 내부 분기점의 추정 위치)에 따라 다른 색으로 표현 되었습니다. ['데이터 탐색'](https://nextstrain.org/ncov)을 클릭하면 바이러스가 확산되는 과정을 추정한 애니메이션을 재생할 수 있습니다.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [発展的な資料: 系統樹の不確かさ](https://nextstrain.org/ncov/2020-03-11)
-先程、内側の節がどのように _仮説_ 上の未収集の症例を表しているについて話しました。
-実際、すべての系統樹が経時的にどのように病原体が進化し、動いているかについての _仮説_ として表されています。
-Nextstarin で私たちが提示している系統樹は点推定です -- つまり、私たちが提示しているのは、データを観測する確率を最大化する歴史のバージョンです。
-<br><br>
-しかし、このような推定には常に不確かさがあります。一般的に言って、密にサンプルが収集された系統樹の部分はより確かで、サンプル収集がまばらな箇所はより不確かです。
+# [추가 읽기자료: 계통수의 통계적 불확실성](https://nextstrain.org/ncov/2020-03-11)
 
+앞에서 우리는 계통수의 내부 분기점이 실제 존재하는 표본이 아닌 가상으로 추정한 케이스를 의미한다고 이야기했습니다. 사실 모든 계통수는 병원체가 어떻게 진화하고 이동했는지에 대한 문제에서 어디까지나 가설일 뿐입니다. Nextstrain에서 보여지는 모든 나무들은 점 추정(역주: point estimate. 모수를 하나의 값으로 추정하는 방식)을 사용합니다. 다시 말해, 여기서 보여주는 계통수는 존재할 수 있는 여러 버전의 계통수들 중 우리가 현재 가진 데이터를 관찰할 가능성이 최대인 버전이라고 할 수 있습니다.
+<br><br>
+그러나, 이러한 추정에는 언제나 불확실성이 존재합니다. 일반적으로 나무에서 데이터가 풍부한 부분은 상대적으로 예측이 더 명확하지만, 데이터가 적은 부분은 상대적으로 예측이 니다.
+
+
+<!-- There is NO right-side text -->
 ```auspiceMainDisplayMarkdown
-# 図例
+# 계통수의 통계적 불확실성에 대한 개념도
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="系統樹における不確実性の図" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
+<img width="700px" alt="Illustration of the uncertainty inherent in tree reconstruction" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
 </p>
 </div>
 ```
@@ -213,20 +208,19 @@ Nextstarin で私たちが提示している系統樹は点推定です -- つ�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [クレジット](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [과학적 기여자들](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。これらのような解析は、ゲノム情報とメタデータの迅速な共有を通じてのみ可能です。
+이번 유행에 관여하고 있는 모든 과학자들, 특히 중국의 과학자들의, 작업들이 대단하고 신속했다는 점에 감사를 표하고자 합니다. 이 분석들은 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 불가능했을 것입니다.
 
 <br><br>
 
-また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた [GISAID](https://gisaid.org) にも感謝します。
+또한, 이 데이터들이 업로드되고 공유할 수 있는 플랫폼을 제공한 [GISAID](https://gisaid.org)에게 감사의 뜻을 전합니다.
 
 <!-- Do not need to translate insitutions names -->
 <!-- This is right-side text -->
-
 ```auspiceMainDisplayMarkdown
 
-私たちはこれらの研修室によって集積されたデータに感謝します:
+우리는 다음 실험실들이 제공한 데이터들에 대하여 감사의 말씀을 전합니다:
 
 * Arizona Department of Health Services
 * Auckland Hospital
@@ -354,19 +348,19 @@ Nextstarin で私たちが提示している系統樹は点推定です -- つ�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データの詳細](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [과학적 기여: 상세 내역](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-これらのデータは [GISAID](https://gisaid.org) を介して共有されました。 彼らの貢献に感謝します。
+이 데이터는 [GISAID](https://gisaid.org)를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
+
 
 <br><br>
 
-右側に、各ラボで共有される特定の遺伝子配列を示します。
+오른쪽에는 각 염기서열을 제공한 각각의 연구실들이 나열되어 있습니다.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-SARS-CoV-2 のゲノムは以下のラボによって提出され、共有されました
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+SARS-CoV-2 유전체는 아래 연구실의 과학자들에 의해 제공되었습니다:
 
 * Arizona Department of Health Services
 	* USA/AZ1/2020
