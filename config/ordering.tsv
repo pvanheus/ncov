@@ -16,6 +16,7 @@ location	Zhuhai
 location	Huaian
 location	Qingdao
 location	Guangzhou
+location	NanChang
 location	Foshan
 location	Hong Kong
 location	Taipei
@@ -35,12 +36,18 @@ location	Bangkok
 location	Singapore
 location	Gold Coast
 location	Sydney
+location	Sunshine Coast
 location	Melbourne
+location	Brisbane
+location	Rockhampton
 location	Clayton
 location	Auckland
+location	Gilgit
 location	Riyadh
 location	Hawali
 location	Dasman
+location	Saint Petersburg
+location	Vienne
 location	Heinsberg District
 location	Heinsberg
 location	Munich
@@ -69,7 +76,19 @@ location	Oisterwijk
 location	Dalen
 location	Budapest
 location	Nantes
+location	Tours
+location	Brest
+location	Vanves
+location	Crouy en Thelle
+location	Meudon la Forêt
 location	Crépy en Valois
+location	Bourg-en-Bresse
+location	Saint-Priest
+location	Venissieux
+location	Macon
+location	Privas
+location	Valence
+location	Lyon
 location	Paris
 location	Reims
 location	garches
@@ -90,7 +109,10 @@ location	Rome
 location	Milan
 location	valencia
 location	England
+location	South Yorkshire
+location	Derbyshire
 location	Yorkshire
+location	Nottinghamshire
 location	Cardiff
 location	Rovaniemi
 location	Jönköping
@@ -98,9 +120,11 @@ location	Helsinki
 location	Sao Paulo
 location	Brasilia
 location	Rio de Janeiro
-location	feira de santana
-location	vila velha
+location	Manaus
+location	Feira de Santana
+location	Vila Velha
 location	Mexico City
+location	La Crosse County
 location	King County
 location	Snohomish County
 location	Pierce County
@@ -113,15 +137,26 @@ location	Los Angeles
 location	California
 location	San Francisco
 location	San Diego County
+location	Marin County
+location	San Francisco County
+location	San Joaquin County
+location	Sacramento County
+location	Santa Clara County
+location	Grant County
 location	Snohomish County
 location	King County
+location	Clark County
+location	Umatilla County
 location	Phoenix
 location	Chicago
 location	Illinois
 location	Wisconsin
 location	Dane County
 location	Boston
+location	Manhattan
 location	Nassau County
+
+location	Grand Princess Cruise Ship
 
 
 division	China
@@ -154,12 +189,15 @@ division	Chungcheongnam
 division	Seoul
 division	South Korea
 division	Selangor
+division	Kuala Lumpur
 division	Kathmandu
 division	Kerala
 division	Iran
 division	Kuwait
+division	Gilgit Baltistan
 division	Tbilisi
 division	Thanh Hoa
+division	Ho Chi Minh City
 division	Vinhphuc
 division	Red River Delta
 division	Quangning
@@ -170,14 +208,24 @@ division	Queensland
 division	New South Wales
 division	Victoria
 division	Wellington
+division	Otago
 division	Auckland
 division	Riyadh
+division	Saint Petersburg
 division	Europe
+division	Reykjavik
+division	Oslo
 division	Central Hungary
 division	Baranya
+division	Kostoliste
+division	Kosice
+division	Bratislava
+division	Martin
 division	Copenhagen
 division	Bretagne
 division	Ile de France
+division	Centre-Val de Loire
+division	France
 division	Auvergne-Rhône-Alpes
 division	Pays de la Loire
 division	Hauts de France
@@ -186,11 +234,32 @@ division	Bourgogne-France-Comté
 division	Normandie
 division	Grand Est
 division	Auvergne Rhone Alpes
+division	Spain
 division	Castilla Y León
+division	Basque Country
+division	Castilla La Mancha
+division	Andalusia
+division	Catalunya
+division	Castilla y Leon
+division	Barcelona
 division	Galicia
 division	Madrid
 division	Flanders
+division	Beersel
 division	Leuven
+division	Chaineux
+division	Kalmthout
+division	Ganshoren
+division	Nevele
+division	Houthalen-Helchteren
+division	Zonhoven
+division	Gierle
+division	Dilbeek
+division	Schoten
+division	Rixensart
+division	Vorst
+division	Sint-Pieters-Woluwe
+division	Kasterlee
 division	Couthuin
 division	Kessel-Lo
 division	Holsbeek
@@ -199,11 +268,25 @@ division	Kraainem
 division	Huldenberg
 division	Brussels
 division	Liège
+division	Switzerland
+division	Lucerne
 division	Bavaria
+division	Duesseldorf
 division	Baden-Wuerttemberg
 division	North Rhine Westphalia
 division	Netherlands
 division	Utrecht
+division	Deinze
+division	Antwerp
+division	Ellezelles
+division	Merelbeke
+division	Hoegaarden
+division	Asse
+division	Zolder
+division	Kaulile
+division	Eupen
+division	Oevel
+division	Ghent
 division	Overijssel
 division	Gelderland
 division	Limburg
@@ -213,8 +296,11 @@ division	Flevoland
 division	South Holland
 division	North Holland
 division	Luxembourg
+division	Austria
+division	Germany
 division	Zielonogorskie
 division	Basel
+division	Basel-Stadt
 division	Bern
 division	Zurich
 division	Aargau
@@ -224,43 +310,73 @@ division	Ticino
 division	Graubünden
 division	Schwyz
 division	Comunitat Valenciana
+division	Athens
+division	Komen
 division	Italy
 division	Lazio
+division	Marche
 division	Lombardy
+division	Abruzzo
+division	Rome
+division	Friuli Venezia Giulia
 division	Usti nad Labem
-division	UK
-division	London
-division	Northamtonshire
-division	Nottinghamshire
-division	South Yorkshire
+division	Grand Canary Islands
+division	Canary Islands
+division	La Rioja
+division	Lisbon
+division	Croatia
 division	Northern Ireland
 division	England
+division	Nottinghamshire
+division	United Kingdom
 division	Wales
 division	Dublin
+division	Tipperary
+division	Louth
+division	Wicklow
+division	Cork
 division	Limerick
 division	Scotland
 division	Småland
 division	Helsinki
 division	Finland
+division	Denmark
 division	Portugal
 division	Lagos
 division	Kinshasa
+division	KwaZulu-Natal
+division	Mbour
+division	Touba
+division	Dakar
+division	Blida
+division	Boufarik
 division	Santiago
 division	Talca
 division	Sao Paulo
 division	Espirito Santo
 division	Bahia
+division	Goiais
+division	Minas Gerais
+division	Rio Grande do Sul
 division	Rio de Janeiro
 division	Distrito Federal
+division	Amazonas State
+division	Antioquia
+division	Bogota
+division	Quito
 division	Panama City
 division	Mexico City
 division	USA
-division	New York City
 division	Connecticut
+division	Rhode Island
+division	Virginia
+division	Florida
+division	Georgia
 division	Texas
 division	Utah
 division	Arizona
 division	California
+division	Oregon
 division	Illinois
 division	Wisconsin
 division	Minnesota
@@ -268,7 +384,16 @@ division	Massachusetts
 division	New York
 division	Washington
 division	British Columbia
+division	Saskatchewan
+division	Nova Scotia
+division	New Brunswick
+division	Manitoba
 division	Ontario
+
+division	Chiba
+division	Ishikawa
+division	Kochi
+division	Khyber Pakhtunkhwa
 
 country	China
 country	Hong Kong
@@ -280,20 +405,30 @@ country	India
 country	Vietnam
 country	Cambodia
 country	Thailand
+country	Malaysia
 country	Singapore
 country	Australia
 country	New Zealand
 country	Saudi Arabia
 country	Kuwait
+country	Iran
+country	Pakistan
 country	Georgia
+country	Russia
+country	Europe
+country	Slovakia
 country	Poland
 country	Hungary
+country Croatia
 country	France
+country	Iceland
+country	Norway
 country	Denmark
 country	Netherlands
 country	Belgium
 country	Luxembourg
 country	Germany
+country	Austria
 country	Switzerland
 country	Italy
 country	Spain
@@ -303,10 +438,16 @@ country	Ireland
 country	Finland
 country	Sweden
 country	Portugal
+country	Greece
 country	Nigeria
+country	Senegal
+country	Algeria
 country	Congo
+country	South Africa
 country	Chile
+country	Ecuador
 country	Brazil
+country	Colombia
 country	Panama
 country	Mexico
 country	USA
