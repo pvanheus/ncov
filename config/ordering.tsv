@@ -97,6 +97,9 @@ location	Privas
 location	Valence
 location	Lyon
 location	Paris
+location	Saint Germain en Laye
+location	Seine-Port
+location	Abondant
 location	Levallois-Perret
 location	Reims
 location	Garches
@@ -203,6 +206,7 @@ location	Umatilla County
 location	Phoenix
 location	Chicago
 location	Illinois
+location	Indianapolis
 location	Wisconsin
 location	Dane County
 location	Boston
@@ -533,6 +537,7 @@ division	Virginia
 division	Rhode Island
 division	Connecticut
 division	New York
+division	New Jersey
 division	Massachusetts
 division	New Hampshire
 division	Indiana
