@@ -1,6 +1,32 @@
 from os import environ
+from packaging import version
 from socket import getfqdn
 from getpass import getuser
+from snakemake.logging import logger
+import sys
+from shutil import which
+
+#
+# Verify that required versions of dependencies are installed.
+#
+MIN_AUGUR_VERSION = "7.0.2"
+
+try:
+    from augur.__version__ import __version__ as augur_version
+except ModuleNotFoundError:
+    logger.error("ERROR: Could not find augur. Follow installation instructions at https://nextstrain.org/docs/ and try again.")
+    sys.exit(1)
+
+if version.parse(augur_version) < version.parse(MIN_AUGUR_VERSION):
+    logger.error("ERROR: Found version '%s' of augur, but version '%s' or greater is required" % (augur_version, MIN_AUGUR_VERSION))
+    sys.exit(1)
+
+SHELL_COMMANDS_NEEDED = ["augur", "iqtree", "mafft"]
+for sh_cmd in SHELL_COMMANDS_NEEDED:
+    if not which(sh_cmd):
+        logger.error(f"ERROR: `{sh_cmd}` is not available as a shell command. Please follow installation instructions at https://nextstrain.org/docs/ and try again.")
+        sys.exit(1)
+
 
 def get_todays_date():
     from datetime import datetime
@@ -421,6 +447,17 @@ rule tip_frequencies:
             --output {output.tip_frequencies_json}
         """
 
+def export_title(wildcards):
+    region = wildcards.region
+
+    if not region:
+        return "Genomic epidemiology of novel coronavirus"
+    elif region == "_global":
+        return "Genomic epidemiology of novel coronavirus - Global subsampling"
+    else:
+        region_title = region.lstrip("_").replace("-", " ").title()
+        return f"Genomic epidemiology of novel coronavirus - {region_title}-focused subsampling"
+
 rule export:
     message: "Exporting data files for for auspice"
     input:
@@ -438,30 +475,10 @@ rule export:
         recency = rules.recency.output
     output:
         auspice_json = "results/ncov_with_accessions{region}.json"
+    params:
+        title = export_title
     shell:
         """
-        #Figure out what region being wanted
-        rgn="{wildcards.region}"
-
-        # Catch in case a run with no wild card (just in case)
-        # Catch case for global build
-        # else, remove - and capitalize
-        if [ -z "$rgn" ]; then
-            regioncap=""
-            title="Genomic epidemiology of novel coronavirus"
-        elif [ "$rgn" = "_global" ]; then
-            regioncap="Global"
-            title="Genomic epidemiology of novel coronavirus - Global subsampling"
-        else
-            region="${{rgn//[_y]/}}"
-            region="${{region//[-y]/ }}"
-            regionlist=( $region )
-            regioncap="${{regionlist[@]^}}"
-            title="Genomic epidemiology of novel coronavirus - $regioncap-focused subsampling"
-        fi
-
-        echo "region is $regioncap"
-
         augur export v2 \
             --tree {input.tree} \
             --metadata {input.metadata} \
@@ -469,7 +486,7 @@ rule export:
             --auspice-config {input.auspice_config} \
             --colors {input.colors} \
             --lat-longs {input.lat_longs} \
-            --title "$title" \
+            --title {params.title:q} \
             --description {input.description} \
             --output {output.auspice_json}
         """
