@@ -242,7 +242,6 @@ location	Jefferson County
 location	Dutchess County
 location	Accra
 
-
 division	China
 division	Hubei
 division	Beijing
@@ -278,6 +277,7 @@ division	South Korea
 division	Selangor
 division	Kuala Lumpur
 division	Kathmandu
+division	Gujarat
 division	Kerala
 division	Kochi
 division	Khyber Pakhtunkhwa
@@ -562,6 +562,7 @@ division	Quito
 division	Guayas
 division	Pichincha
 division	Lima
+division	Montevideo
 division	Panama City
 division	Mexico City
 division	Estado de Mexico
@@ -604,6 +605,7 @@ division	California
 division	Grand Princess
 division	Oregon
 division	Washington
+division	Hawaii
 division	Alaska
 division	Nova Scotia
 division	New Brunswick
@@ -675,6 +677,7 @@ country	Ecuador
 country	Peru
 country	Brazil
 country	Argentina
+country	Uruguay
 country	Colombia
 country	Panama
 country	Mexico
