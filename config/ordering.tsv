@@ -54,7 +54,7 @@ location	Gilgit
 location	Riyadh
 location	Hawali
 location	Dasman
-location	Saint Petersburg
+location	Ulan-Ude
 location	Vienne
 location	Heinsberg District
 location	Heinsberg
@@ -175,6 +175,10 @@ location	Helsinki
 location	Sao Paulo
 location	Brasilia
 location	Rio de Janeiro
+location	Florianopolis
+location	Niteroi
+location	Joinville
+location	Maceio
 location	Manaus
 location	Feira de Santana
 location	Vila Velha
@@ -213,6 +217,7 @@ location	Indianapolis
 location	Wisconsin
 location	Dane County
 location	Boston
+location	Orange County NY
 location	Manhattan
 location	Nassau County
 location	Brooklyn
@@ -242,6 +247,8 @@ location	Jefferson County
 location	Dutchess County
 location	Accra
 
+
+
 division	China
 division	Hubei
 division	Beijing
@@ -260,6 +267,8 @@ division	Shanghai
 division	Hong Kong
 division	Taiwan
 division	Taipei
+division	New Taipei City
+division	Keelung
 division	Taoyuan
 division	Aichi
 division	Tokyo
@@ -285,6 +294,7 @@ division	Ramat Gan
 division	Iran
 division	Kuwait
 division	Kayseri
+division	Istanbul
 division	Gilgit Baltistan
 division	Tbilisi
 division	Thanh Hoa
@@ -305,7 +315,9 @@ division	Wellington
 division	Otago
 division	Auckland
 division	Riyadh
-division	Saint Petersburg
+division	Doha
+division	Saint-Petersburg
+division	Buryat Republic
 division	Europe
 division	Reykjavik
 division	Oslo
@@ -554,6 +566,8 @@ division	Goiais
 division	Minas Gerais
 division	Rio Grande do Sul
 division	Rio de Janeiro
+division	Santa Catarina
+division	Alagoas
 division	Distrito Federal
 division	Amazonas State
 division	Antioquia
@@ -631,6 +645,7 @@ country	Singapore
 country	Australia
 country	New Zealand
 country	Saudi Arabia
+country	Qatar
 country	Kuwait
 country	Iran
 country	Israel
