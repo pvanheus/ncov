@@ -331,13 +331,13 @@ division	Kuwait
 division	Kayseri
 division	Istanbul
 division	Kocaeli
-division	Karaman
-division	Balikesir
 division	Ankara
-division	Aksaray
 division	Nevsehir
 division	Siirt
+division	Karaman
+division	Aksaray
 division	Kastamonu
+division	Balikesir
 division	Gilgit Baltistan
 division	Tbilisi
 division	Thanh Hoa
@@ -594,6 +594,7 @@ division	Kinshasa
 division	Sud Kivu
 division	KwaZulu-Natal
 division	Greater Accra
+division	West Coast Region
 division	Mbour
 division	Touba
 division	Dakar
@@ -681,6 +682,7 @@ country	Japan
 country	South Korea
 country	Nepal
 country	India
+country	Sri Lanka
 country	Vietnam
 country	Cambodia
 country	Thailand
@@ -727,6 +729,7 @@ country	Egypt
 country	Nigeria
 country	Ghana
 country	Senegal
+country	Gambia
 country	Algeria
 country	Democratic Republic of the Congo
 country	South Africa
