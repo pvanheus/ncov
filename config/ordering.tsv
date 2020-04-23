@@ -281,7 +281,6 @@ location	Accra
 
 
 
-
 division	China
 division	Hubei
 division	Beijing
@@ -296,6 +295,7 @@ division	Shandong
 division	Zhejiang
 division	Fujian
 division	Guangdong
+division	Guangzhou
 division	Shanghai
 division	Hong Kong
 division	Taiwan
@@ -359,7 +359,31 @@ division	Otago
 division	Auckland
 division	Riyadh
 division	Saint-Petersburg
+division	Moscow
+division	Moscow Region
+division	Chelyabinsk Region
+division	Krasnodar Region
+division	Krasnoyarsk Region
+division	Khabarovsk Region
+division	Lipetsk Region
+division	Novosibirsk Region
+division	Omsk Region
+division	Orenburg Region
+division	Tatarstan
+division	Perm Region
+division	Primorskiy Region
+division	Pskov Region
+division	Sakhalin Region
+division	Samara Region
+division	Sverdlovsk Region
+division	Tver Region
 division	Buryat Republic
+division	Chechen Republic
+division	Republic of Buryatia
+division	Republic of Sakha
+division	Republic of Kabardino-Balkaria
+division	Republic of Crymea
+division	Republic of Tatarstan
 division	Europe
 division	Reykjavik
 division	Oslo
@@ -368,6 +392,7 @@ division	Baranya
 division	Kostoliste
 division	Kosice
 division	Bratislava
+division	Malopolskie
 division	Prague
 division	Martin
 division	Copenhagen
@@ -537,6 +562,7 @@ division	Friesland
 division	Luxembourg
 division	Austria
 division	Vienna
+division	Budapest
 division	Germany
 division	Zielonogorskie
 division	Pomorskie
@@ -583,9 +609,16 @@ division	Limerick
 division	Scotland
 division	Småland
 division	Vasterbotten
-division	Västerbotten
-division	Moscow
-division	Helsinki
+division	Guangzhou
+division	Halland
+division	Budapest
+division	Stockholm
+division	Ostergotland
+division	Sormland
+division	Varmland
+division	Gavleborgs lan
+division	Orebro lan
+division	Norrbotten
 division	Finland
 division	Denmark
 division	Portugal
