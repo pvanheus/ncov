@@ -193,6 +193,9 @@ location	Jönköping
 location	Sao Paulo
 location	Brasilia
 location	Rio de Janeiro
+location	Bahia Blanca
+location	San Carlos de Bariloche
+location	Quilmes
 location	Florianopolis
 location	Niteroi
 location	Joinville
@@ -682,6 +685,9 @@ division	Rio Grande do Sul
 division	Rio de Janeiro
 division	Santa Catarina
 division	Alagoas
+division	Ciudad Autonoma de Buenos Aires
+division	Buenos Aires
+division	Rio Negro
 division	Distrito Federal
 division	Amazonas State
 division	Antioquia

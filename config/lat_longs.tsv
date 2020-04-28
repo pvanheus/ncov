@@ -9,6 +9,7 @@ location	Andel	51.7851	5.0549
 location	Arbre	50.611772	3.817121
 location	Asnières-sur-Seine	48.911508	2.284362
 location	Auckland	-36.8314	174.7606
+location	Bahia Blanca	-38.7183	-62.2663
 location	Bangkok	13.803139	100.491612
 location	Bassilly	50.675907	3.933169
 location	Beijing	40.071320	116.406908
@@ -195,6 +196,7 @@ location	Pu'er	22.807007	100.971896
 location	Qingdao	36.171557	120.398496
 location	Queens	40.717328	-73.795709
 location	Quevaucamps	50.720840	3.289101
+location	Quilmes	-34.7206	-58.2546
 location	Racine	42.721147	-87.800333
 location	Reims	49.253754	4.035860
 location	Rennes	48.1173	1.6778
@@ -213,6 +215,7 @@ location	Saint-Priest	45.704159	4.949456
 location	Saint-Thibault-des-Vignes	48.862026	2.674513
 location	Saisinne	50.523754	4.035498
 location	Saive	50.652941	5.685550
+location	San Carlos de Bariloche	-41.1335	-71.3103
 location	San Diego	32.733024	-117.143358
 location	San Diego County	32.981125	-116.681405
 location	San Joaquin County	37.917472	-121.258503
@@ -362,6 +365,7 @@ division	Bretagne	48.2020	2.9326
 division	British Columbia	54.010982	-124.745183
 division	Brussels	50.8503	4.3517
 division	Budapest	47.482728	19.084269
+division	Buenos Aires	-34.6037	-58.3816
 division	Buryat Republic	52.311711	108.916732
 division	California	36.357039	-119.690182
 division	Canakkale	40.030844	26.733769
@@ -391,6 +395,7 @@ division	Cork	51.895349	-8.474381
 division	Courcelles	50.469378	4.344490
 division	Couthuin	50.5315	5.1225
 division	Couvin	50.035063	4.485139
+division	Ciudad Autonoma de Buenos Aires	-34.6037	-58.3816
 division	Croatia	45.1000	15.2000
 division	Dakar	14.725966	-17.461810
 division	Dalhem	50.719480	5.758129
@@ -643,6 +648,7 @@ division	Riemst	50.805092	5.589712
 division	Riga	56.960679	24.107160
 division	Rio de Janeiro	-22.89445	-43.2099
 division	Rio Grande do Sul	-29.615543	-53.220125
+division	Rio Negro	-40.8261	-63.0266
 division	Rixensart	50.7156	4.5310
 division	Riyadh	23.197563	45.243845
 division	Rome	41.9028	12.4964
