@@ -52,6 +52,9 @@ location	Thanh Hoa
 location	Hanoi
 location	Bangkok
 location	Hyderabad
+location	Ahmedabad
+location	Gandhinagar
+location	Mansa
 location	Kolkata
 location	East Medinipur
 location	Tehatta
@@ -295,6 +298,11 @@ location	Winneshiek County
 location	Jackson County
 location	Adams County
 location	New Orleans
+location	East Feliciana Parish
+location	Caddo Parish
+location	East Baton Rouge Parish
+location	Livingston Parish
+location	Iberville Parish
 location	Thiensville
 location	Racine
 location	Cudahy
@@ -339,6 +347,8 @@ division	Guangdong
 division	Shanghai
 division	Hong Kong
 division	Taiwan
+division	Samut Prakarn
+division	Pathum Thani
 division	Taipei
 division	New Taipei City
 division	Philippines
@@ -425,6 +435,7 @@ division	Israel
 division	Jordan
 division	Turkey
 division	Pakistan
+division	Nur-Sultan
 division	Russia
 division	Saint-Petersburg
 division	Moscow
@@ -857,6 +868,7 @@ country	Israel
 country	Jordan
 country	Turkey
 country	Pakistan
+country	Kazakhstan
 country	Georgia
 country	Russia
 country	Europe
