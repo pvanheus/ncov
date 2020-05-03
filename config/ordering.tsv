@@ -52,6 +52,7 @@ location	Thanh Hoa
 location	Hanoi
 location	Bangkok
 location	Hyderabad
+location	Noida
 location	Ahmedabad
 location	Gandhinagar
 location	Mansa
@@ -370,12 +371,25 @@ division	Chungcheongnam
 division	Seoul
 division	South Korea
 division	Nepal
-division	India
-division	Telangana
+division	Kathmandu
 division	Sri Lanka
 division	Selangor
 division	Kuala Lumpur
-division	Kathmandu
+division	India
+division	Uttar Pradesh
+division	Delhi
+division	Ladakh
+division	Punjab
+division	Tamil Nadu
+division	Bihar
+division	Mumbai
+division	Andhra Pradesh
+division	Jammu
+division	Haryana
+division	Maharashtra
+division	Odisha
+division	Kargil
+division	Telangana
 division	Karnataka
 division	Gujarat
 division	Kerala
@@ -862,6 +876,7 @@ country	Australia
 country	New Zealand
 country	Saudi Arabia
 country	Qatar
+country	United Arab Emirates
 country	Kuwait
 country	Iran
 country	Israel
