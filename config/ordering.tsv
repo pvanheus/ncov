@@ -312,6 +312,7 @@ location	East Baton Rouge Parish
 location	Livingston Parish
 location	Iberville Parish
 location	Pittsburgh
+location	Fayette County
 location	Thiensville
 location	Racine
 location	Cudahy
@@ -324,6 +325,9 @@ location	Greater Milwaukee Area
 location	Slinger
 location	River Hills
 location	Bayside
+location	Vernon County
+location	Trempealeau County
+location	Juneau County
 location	Saukville
 location	Hartford
 location	Campbellsport
@@ -340,6 +344,8 @@ location	Brookfield
 location	Elm Grove
 location	Glendale
 location	Accra
+
+
 
 
 division	China
@@ -388,7 +394,6 @@ division	Kathmandu
 division	Sri Lanka
 division	Selangor
 division	Kuala Lumpur
-division	India
 division	Uttar Pradesh
 division	Delhi
 division	Ladakh
@@ -451,6 +456,8 @@ division	Malaysia
 division	Singapore
 division	Brunei
 division	Jakarta
+division	Surabaya
+division	India
 division	Australia
 division	Queensland
 division	Northern Territory
@@ -468,6 +475,12 @@ division	Qatar
 division	Israel
 division	Jordan
 division	Turkey
+division	Styria
+division	Denizli
+division	Tokat
+division	Agri
+division	Mardin
+division	Tekirdag
 division	Adıyaman
 division	Pakistan
 division	Nur-Sultan
@@ -503,11 +516,11 @@ division	Poland
 division	Dolnoslaskie
 division	Belarus
 division	Estonia
+division	Latvia
 division	Europe
 division	Iceland
 division	Reykjavik
 division	Helsinki
-division	Latvia
 division	Riga
 division	Lithuania
 division	Vilnius

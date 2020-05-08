@@ -86,6 +86,7 @@ location	England	52.405994	-1.671707
 location	Essex County	40.784033	-74.235550
 location	Fairbanks	64.835015	-147.664888
 location	Fairfield County	41.2560	-73.3709
+location	Fayette County	42.9258	-91.9099
 location	Feira de Santana	-12.2598	-38.9675
 location	Florida	27.6648	-81.5158
 location	Florianopolis	-27.581052	-48.481313
@@ -146,6 +147,7 @@ location	Joinville	-26.235559	-48.950735
 location	Jönköping	57.777979	14.160453
 location	Jumet	50.442063	4.436515
 location	Juneau	58.541037	-134.236606
+location	Juneau County	43.8673	-90.0747
 location	Juvisy-sur-Orge	48.690609	2.377581
 location	Kain	50.637121	3.379162
 location	Kaohsiung	22.622632	120.312435
@@ -301,6 +303,7 @@ location	Tilburg	51.571419	5.052759
 location	Tokyo	35.683441	139.766131
 location	Tours	47.404471	0.693908
 location	Trazegnies	50.466074	4.334811
+location	Trempealeau County	44.2398	-91.3662
 location	Tweed Heads	-28.201312	153.543425
 location	Ulan-Ude	51.827029	107.655954
 location	Ulster County	41.8586	-74.3118
@@ -310,6 +313,7 @@ location	Valence	44.926123	4.900583
 location	Valencia	39.337	-0.354
 location	Vanves	48.821722	2.288675
 location	Venissieux	45.704031	4.882246
+location	Vernon County	43.5577	-90.8294
 location	Verona	45.4384	10.9916
 location	Vienne	48.190041	16.382686
 location	Vila Velha	-20.3472	-40.2823
@@ -351,6 +355,7 @@ division	Abruzzo	42.192	13.7289
 division	Adıyaman	37.900714	38.309879
 division	Africa	4.070194	21.824559
 division	Afyon	38.752653	30.553661
+division	Agri	39.7191	43.0506
 division	Aichi	35.067543	137.334061
 division	Aksaray	38.44611	33.878216
 division	Alagoas	-9.74863	-36.417626
@@ -463,6 +468,7 @@ division	Deinze	50.9875	3.5236
 division	Delhi	28.7041	77.1025
 division	Democratic Republic of the Congo	-4.0383	21.7587
 division	Dendermonde	51.032573	4.099329
+division	Denizli	37.7830	29.0963
 division	Denmark	56.2639	9.5018
 division	Diamond Princess	35.046935	139.419325
 division	Dilbeek	50.8465	4.2621
@@ -558,7 +564,7 @@ division	Iceland	64.9841821	-18.1059012
 division	Idaho	43.810421	-114.351215
 division	Ile De France	48.724751	2.491522
 division	Illinois	40.088552	-89.301876
-division	India	22.3511148	78.6677428
+division	India	21.077353	78.723951
 division	Indiana	40.2672	-86.1349
 division	Iowa	41.878	-93.0977
 division	Iran	34.5732	51.876
@@ -619,7 +625,7 @@ division	Lagos	6.54252	3.286661
 division	Lanaken	50.884429	5.634002
 division	Lapland	67.700017	26.273752
 division	Lasne	50.679575	4.463992
-division	Latvia	57	25
+division	Latvia	56.799689	25.441386
 division	Lazio	41.994328	12.622686
 division	Leuven	50.8798	4.7005
 division	Liège	50.6326	5.5797
@@ -645,6 +651,7 @@ division	Malopolskie	49.7225	20.2503
 division	Manila	14.652678	121.043936
 division	Manitoba	55.182879	-97.823531
 division	Marche	43.374025	13.161012
+division	Mardin	37.3129	40.7340
 division	Martin	49.0617	18.919
 division	Maryland	39.0458	-76.6413
 division	Massachusetts	42.340741	-71.998513
@@ -822,7 +829,9 @@ division	Sri Lanka	7.75	80.75
 division	St-Louis	16.0326	-16.4818
 division	Stekene	51.214088	4.030857
 division	Stockholm	59.33267	18.061849
+division	Styria	47.3593	14.4700
 division	Sud Kivu	-3.223156	28.386665
+division	Surabaya	-7.266062	112.748376
 division	Sverdlovsk Region	59.0077	61.9316
 division	Sweden	59.6749712	14.5208584
 division	Switzerland	46.8182	8.2275
@@ -834,6 +843,7 @@ division	Tamil Nadu	11.1271	78.6569
 division	Taoyuan	24.9936	121.301
 division	Tatarstan	56.130014	53.371181
 division	Tbilisi	41.733699	44.818487
+division	Tekirdag	40.9781	27.5117
 division	Telangana	18.094062	79.141493
 division	Teramo	42.6611	13.6987
 division	Tervuren	50.820725	4.52387
@@ -848,6 +858,7 @@ division	Tielt-Winge	50.922676	4.892596
 division	Tienen	50.80466	4.937784
 division	Tilburg	51.567213	5.047957
 division	Tipperary	52.4738	-8.1619
+division	Tokat	40.3235	36.5522
 division	Tokyo	35.683441	139.766131
 division	Touba	14.856713	-15.87911
 division	Toulouse	43.597198	1.431465
@@ -906,6 +917,8 @@ division	Zolder	50.9905	5.258
 division	Zonhoven	50.9871	5.3672
 division	Zoutleeuw	50.836614	5.107761
 division	Zurich	47.441242	8.641154
+
+
 
 
 country	Argentina	-37.052315	-64.869142
