@@ -54,6 +54,7 @@ location	Bangkok
 location	Hyderabad
 location	Noida
 location	Ahmedabad
+location	Surat
 location	Gandhinagar
 location	Mansa
 location	Kolkata
@@ -238,6 +239,9 @@ location	Columbus
 location	Cincinnati
 location	Ketchikan
 location	Fairbanks
+location	Mat-Su
+location	Interior Alaska
+location	Southeast Alaska
 location	Wasilla
 location	Juneau
 location	Eielson AFB
@@ -344,6 +348,8 @@ location	Brookfield
 location	Elm Grove
 location	Glendale
 location	Accra
+
+
 
 
 
@@ -527,6 +533,9 @@ division	Vilnius
 division	Norway
 division	Oslo
 division	Istria
+division	Serbia
+division	Kraljevo
+division	Novi Pazar
 division	Hungary
 division	Central Hungary
 division	Baranya
@@ -881,6 +890,7 @@ division	Arizona
 division	Utah
 division	Wyoming
 division	Idaho
+division	Montana
 division	California
 division	Grand Princess
 division	Oregon
@@ -928,8 +938,10 @@ country	Jordan
 country	Turkey
 country	Pakistan
 country	Kazakhstan
+country	Kyrgyzstan
 country	Georgia
 country	Russia
+country	Serbia
 country	Europe
 country	Latvia
 country	Slovakia
