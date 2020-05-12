@@ -9,6 +9,7 @@ data/*
 config/colors.tsv
 data/raw
 config/colors_*.tsv
+stats.json
 
 # Sensitive environment variables
 environment*
