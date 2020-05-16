@@ -416,6 +416,7 @@ division	Andhra Pradesh	15.9129	79.7400
 division	Anhui	31.754331	117.211441
 division	Ankara	39.949377	32.854736
 division	Antioquia	6.709191	-75.484721
+division	Antofagasta	-23.6509	-70.3975
 division	Antwerp	51.225698	4.420885
 division	Argentina	-34	-64
 division	Arizona	34.220707	-111.657462
@@ -435,6 +436,7 @@ division	Balikesir	39.650196	27.88958
 division	Balatonfured	46.9599	17.8851
 division	Balassagyarmat	48.0712	19.2937
 division	Bangkok	13.798471	100.590834
+division	Bangladesh	24.506442	90.041454
 division	Baranya	46.0485	18.2719
 division	Barcelona	41.394769	2.173828
 division	Basel	47.559198	7.59064
@@ -461,14 +463,17 @@ division	Bourgogne-France-Comté	47.2805	4.9994
 division	Boussu	50.425366	3.797692
 division	Boutersem	50.833781	4.839596
 division	Braine-l alleud	50.667307	4.358179
+division	Brasov	45.6580	25.6012
 division	Bratislava	48.1486	17.1077
 division	Brazil	-10.3333332	-53.1999999
 division	Bree	51.138202	5.631877
 division	Bretagne	48.202	2.9326
 division	British Columbia	54.010982	-124.745183
 division	Brunei	4.5353	114.7277
+division	Bucharest	44.4268	26.1025
 division	Brussels	50.8503	4.3517
 division	Budapest	47.482728	19.084269
+division	Bucharest	44.4268	26.1025
 division	Buenos Aires	-34.6037	-58.3816
 division	Burgenland	47.517438	16.468160
 division	Buryat Republic	52.311711	108.916732
@@ -491,6 +496,7 @@ division	Chelyabinsk Region	54.4319	60.8789
 division	Chiapas	16.520858	-92.643133
 division	Chiba	35.463961	140.223882
 division	Chihuahua	28.633	-106.0691
+division	Chillan	-36.6063	-72.1023
 division	Chile	-31.7613364	-71.3187696
 division	China	33.394333	104.689839
 division	Chongqing	29.858721	107.375623
@@ -499,12 +505,14 @@ division	Ciudad Autonoma de Buenos Aires	-34.6037	-58.3816
 division	Colfontaine	50.40777	3.846237
 division	Colombia	2.893108	-73.7845142
 division	Comunitat Valenciana	39.337	-0.354
+division	Concepcion	-36.8201	-73.0444
 division	Connecticut	41.678117	-72.669773
 division	Copenhagen	55.6761	12.5683
 division	Cork	51.895349	-8.474381
 division	Courcelles	50.469378	4.34449
 division	Couthuin	50.5315	5.1225
 division	Couvin	50.035063	4.485139
+division	Coyhaique	-45.5712	-72.0683
 division	Croatia	45.1	15.2
 division	Czech Republic	49.8175	15.473
 division	Dakar	14.725966	-17.46181
@@ -803,7 +811,9 @@ division	Prince Edward Island	46.344935	-63.405688
 division	Pskov Region	56.7709	29.094
 division	Puebla	19.0414	-98.2063
 division	Puerto Rico	18.2208	-66.5901
+division	Puerto Montt	-41.4689	-72.9411
 division	Punjab	31.1471	75.3412
+division	Punta Arenas	53.1638	70.9171
 division	Qatar	25.27932	51.52245
 division	Quangning	21.21476	107.251514
 division	Quaregnon	50.437973	3.859235
@@ -814,6 +824,7 @@ division	Quevy	50.368752	3.945724
 division	Quito	-0.18126	-78.4599
 division	Rajsathan	27.0238	74.2179
 division	Ramat Gan	32.0684	34.8248
+division	Rancagua	-34.1701	-70.7406
 division	Ravels	51.416526	5.022319
 division	Red River Delta	21.010949	105.786621
 division	Republic of Buryatia	54.8331	112.4061
@@ -906,6 +917,7 @@ division	Tbilisi	41.733699	44.818487
 division	Tehran	35.6892	51.3890
 division	Tekirdag	40.9781	27.5117
 division	Telangana	18.094062	79.141493
+division	Temuco	-38.7359	-72.5904
 division	Teramo	42.6611	13.6987
 division	Tervuren	50.820725	4.52387
 division	Texas	31.146868	-99.188758
@@ -939,6 +951,7 @@ division	USA	38.916963	-98.891372
 division	Usti nad Labem	50.656527	14.053702
 division	Utah	39.4225192	-111.7143583
 division	Utrecht	52.08532	5.184968
+division	Valparaiso	-33.0472	-71.6127
 division	Vastmanland	59.6714	16.2159
 division	Varmland	59.894483	13.209991
 division	Vastra Gotaland	58.2528	13.0596
@@ -1013,6 +1026,7 @@ country	Panama	8.98333	-79.5166
 country	Peru	-9.650468	-75.328211
 country	Philippines	11.383086	123.521862
 country	Qatar	25.230573	51.183951
+country	Romania	45.9432	24.9668
 country	Sri Lanka	7.8731	80.7718
 country	Turkey	39.046746	36.767068
 

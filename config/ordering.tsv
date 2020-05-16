@@ -507,6 +507,7 @@ division	Brunei
 division	Jakarta
 division	Surabaya
 division	India
+division	Bangladesh
 division	Australia
 division	Queensland
 division	Northern Territory
@@ -565,6 +566,8 @@ division	Republic of Kabardino-Balkaria
 division	Republic of Crymea
 division	Republic of Tatarstan
 division	Slovenia
+division	Bucharest
+division	Brasov
 division	Poland
 division	Dolnoslaskie
 division	Belarus
@@ -583,6 +586,7 @@ division	Istria
 division	Serbia
 division	Kraljevo
 division	Novi Pazar
+division	Bucharest
 division	Hungary
 division	Central Hungary
 division	Baranya
@@ -869,6 +873,15 @@ division	Thies
 division	Blida
 division	Boufarik
 division	Chile
+division	Antofagasta
+division	Chillan
+division	Concepcion
+division	Rancagua
+division	Valparaiso
+division	Temuco
+division	Coyhaique
+division	Punta Arenas
+division	Puerto Montt
 division	Ecuador
 division	Brazil
 division	Santiago
@@ -998,6 +1011,7 @@ country	Kyrgyzstan
 country	Georgia
 country	Russia
 country	Serbia
+country	Romania
 country	Europe
 country	Latvia
 country	Slovakia
