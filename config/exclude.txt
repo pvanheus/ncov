@@ -518,6 +518,9 @@ pangolin/China/MP789/2019
 bat/Yunnan/RmYN02/2019
 bat/Yunnan/RmYN01/2019
 
+# Experimental infections
+mink/Netherlands/1/2020
+
 # Temporarily excluded
 USA/CruiseA-1/2020
 USA/CruiseA-2/2020
@@ -679,3 +682,6 @@ Uruguay/UY-3/2020
 
 # Includes characters "AAGACTAAAAATGTTACAAAAGAA:::::::::::::::GGTTTTTTCACTTACATTTGT"
 USA/AK-PHL180/2020
+
+#Seems pretty divergent with about 30 mutations
+Colombia/GVI-97181/2020

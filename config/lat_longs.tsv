@@ -5,11 +5,14 @@ location	ahmedabad	23.024605	72.570805
 location	Aichi	35.067543	137.334061
 location	Alajuela	10.0159	-84.2142
 location	Albany County	42.601369	-73.973601
+location	Alboraya	39.4990	-0.3510
+location	Albuixech	39.5448	-0.3248
 location	Aldrans	47.250725	11.445815
 location	Allamakee County	43.286290	-91.352362
 location	Anchorage	61.203109	-149.888095
+location	Andalucía	4.173863	-76.164864
 location	Andel	51.7851	5.0549
-location	Asnieres sur Seine	48.9142	2.2854
+location	Anserma	5.238746	-75.782888
 location	Arbre	50.611772	3.817121
 location	Asnières-sur-Seine	48.911508	2.284362
 location	Asotin County	46.1460	-117.2085
@@ -21,6 +24,8 @@ location	Bassilly	50.675907	3.933169
 location	Bayside	43.1806	-87.9006
 location	Beijing	40.071320	116.406908
 location	Bela - Ledec na Sazavou	49.693369	15.277533
+location	Beniganim	38.9431	-0.4439
+location	Benirredra	38.9612	-0.1928
 location	Benton County	36.2662	-94.4800
 location	Bergen County	40.9263	-74.0770
 location	Berlicum	51.6789	5.4012
@@ -28,6 +33,7 @@ location	Bienville Parish	32.340169	-93.050187
 location	Bierset	50.656953	5.454009
 location	Blandain	50.624503	3.303954
 location	Blaricum	52.2727	5.2481
+location	Bonrepos i Mirambell	39.5178	-0.3647
 location	Boston	42.354750	-71.061299
 location	Bourg-en-Bresse	46.206861	5.229144
 location	Braine-le-Chateau	50.677854	4.267574
@@ -40,11 +46,15 @@ location	Brooklyn	40.6782	-73.9442
 location	Broome County	42.136164	-75.832955
 location	Brown Deer	43.1633	-87.9645
 location	Budapest	47.482728	19.084269
+location	Buga	3.903723	-76.300764
 location	Caddo Parish	32.618244	-93.832261
 location	Cairns	-16.890992	145.724483
+location	Cajicá	4.919830	-74.024182
+location	Cali	3.4516	-76.5320
 location	California	36.357039	-119.690182
 location	Camden County	39.814507	-74.986182
 location	Campbellsport	43.596732	-88.280763
+location	Canet d'en Berenguer	39.6806	-0.2192
 location	Cardiff	51.476291	-3.178964
 location	Carentan	49.302133	-1.250938
 location	Cartago	9.8638	-83.9162
@@ -54,7 +64,9 @@ location	Chalon sur Saone	46.7808	4.8539
 location	Chateau-Thierry	49.048053	3.390023
 location	Chenango County	42.4972	-75.6208
 location	Chengdu	30.640989	104.067518
+location	Chía	4.865442	-74.052806
 location	Chicago	41.858966	-87.637242
+location	Chocontá	5.146017	-73.683678
 location	Chongqing	29.858721	107.375623
 location	Chungcheongnam	36.685948	126.799198
 location	Cincinnati	39.122033	-84.515918
@@ -71,8 +83,10 @@ location	Cork	51.899	-8.460
 location	Couillet	50.391184	4.459113
 location	Crépy en Valois	49.234399	2.888491
 location	Crouy en Thelle	49.213817	2.320688
+location	Cúcuta	7.904674	-72.506484
 location	Cudahy	42.946879	-87.861992
 location	Cuesmes	50.435127	3.923209
+location	Dahegam	23.1637	72.8102
 location	Dalen	52.6994	6.7568
 location	Dane county	43.0186	-89.5498
 location	Darjeeling	27.028909	88.260898
@@ -90,10 +104,14 @@ location	East Feliciana Parish	30.850463	-91.036298
 location	East Medinipur	22.037985	87.811563
 location	Eielson AFB	64.655387	-147.064620
 location	Eindhoven	51.4416	5.4697
+location	El cerrito	3.684363	-76.311345
+location	El Puig	39.5908	-0.3031
 location	Elbigenalp	47.289202	10.434541
+location	Elda	38.4765	-0.7966
 location	Elm Grove	43.047975	-88.086157
 location	Elmendorf AFB	61.252028	-149.812043
 location	England	52.405994	-1.671707
+location	Envigado	6.168786	-75.583389
 location	Essex County	40.784033	-74.235550
 location	Fairbanks	64.835015	-147.664888
 location	Fairfield County	41.2560	-73.3709
@@ -105,12 +123,15 @@ location	Forchies-la-marche	50.435103	4.319844
 location	Foshan	23.018766	113.121428
 location	Franklin	42.882823	-88.009275
 location	Franklin County	44.5926	-74.3388
+location	Funza	4.713017	-74.206999
 location	Fuyang	32.904205	115.812367
 location	Garches	48.8461	2.1887
 location	Ganzhou	25.8307	114.9335
 location	gandhinagar	23.227004	72.643142
+location	Gandia	38.9680	-0.1845
 location	Geluwe	50.809763	3.076704
 location	Gennevilliers	48.927444	2.292449
+location	Gilet	39.6668	-0.3325
 location	Gilgit	35.880589	74.448161
 location	Glendale	43.129400	-87.930209
 location	Gold Coast	-28.019726	153.398160
@@ -140,6 +161,7 @@ location	Heinsberg District	51.0499	6.1163
 location	Heredia	9.9981	-84.1198
 location	Heverlee	50.861704	4.695889
 location	Helmond	51.4793	5.6570
+location	Himatnagar	23.5969	72.9630
 location	Hong Kong	22.3964	114.1095
 location	Houston	29.813606	-95.415223
 location	Houten	52.0278	5.1630
@@ -148,14 +170,18 @@ location	Huaian	33.574586	119.132155
 location	Hudson County	40.741619	-74.059016
 location	Huizhou	23.107144	114.457913
 location	Hyderabad	17.431807	78.416233
+location	Ibagué	4.438643	-75.190558
 location	Iberville Parish	30.256342	-91.380864
 location	Illinois	40.088552	-89.301876
 location	Indianapolis	39.7684	-86.1581
 location	Innsbruck	47.283507	11.379467
 location	Interior Alaska	65.905635	-150.144417
+location	Ipiales	0.828410	-77.638041
 location	Ischgl	47.011789	10.289683
+location	Itagui	6.174822	-75.607579
 location	Jackson	43.325508	-88.167662
 location	Jackson County	44.310891	-90.788896
+location	Jamundí	3.260158	-76.539750
 location	Jefferson County	44.063938	-75.903794
 location	Jemappes	50.446399	3.898191
 location	Jian	27.0876	114.9647
@@ -188,6 +214,7 @@ location	Leuven	50.880674	4.700109
 location	Levallois-Perret	48.8932	2.2879
 location	Lishui	28.460681	119.919147
 location	Livingston Parish	30.463159	-90.743070
+location	Llutxent	38.9421	-0.3554
 location	London	51.497327	-0.118796
 location	Longjumeau	48.6931	2.2948
 location	Loon	51.379197	5.443200
@@ -197,6 +224,7 @@ location	Luxembourg	49.607806	6.130375
 location	Lyon	45.757870	4.841293
 location	Maceio	-9.586654	-35.721537
 location	Macon	46.299425	4.822063
+location	Madrid CO	4.734291	-74.262272
 location	Manaus	-3.126424	-60.019807
 location	Manhattan	40.778542	-73.969920
 location	mansa	23.428814	72.656249
@@ -204,13 +232,17 @@ location	Marin County	38.077277	-122.719060
 location	Mason County	47.4251	-123.1951
 location	Mat-Su	61.382704	-150.251175
 location	Matrei am Brenner	47.128405	11.452845
+location	Medellín	6.254779	-75.578125
 location	Melbourne	-37.839042	145.076343
+location	Meliana	39.5286	-0.3478
 location	Mequon	43.226666	-87.973033
 location	Meudon la Forêt	48.787126	2.227098
 location	Milan	45.474	9.177
 location	Milwaukee	43.058555	-87.923530
+location	Miramar	25.9861	-80.3036
 location	Modasa	23.4643	73.2988
 location	Monroe County	43.940837	-90.605424
+location	Montería	8.747483	-75.880941
 location	Montgomery County	42.9155	-74.4526
 location	Montigny le Bretonneux	48.7739	2.0360
 location	Montignies-Sur-Sambre	50.401302	4.478466
@@ -219,12 +251,12 @@ location	Moussy Le Neuf	49.065806	2.601697
 location	Multnomah County	45.517630	-122.536942
 location	Munich	48.155742	11.549380
 location	Naarden	52.2953	5.1604
-location	Naarden	52.2953	5.1604
 location	Nanchang	28.707143	115.874137
 location	Nancy	48.6921	6.1844
 location	Nantes	47.203649	-1.552453
 location	Nassau County	40.7333	-73.58010
 location	Neerpelt	51.228889	5.431667
+location	Neiva	2.933160	-75.277542
 location	New Berlin	42.969065	-88.129847
 location	New Orleans	29.9511	-90.0715
 location	New York City	40.695065	-73.993461
@@ -239,13 +271,19 @@ location	Northern Queensland	-17.758290	142.643075
 location	Nottinghamshire	53.139677	-1.027527
 location	Oak Creek	42.878698	-87.901041
 location	Oisterwijk	51.568179	5.211873
+location	Olleria	38.9146	-0.5506
+location	Oliva	38.9198	-0.1188
 location	Onondaga County	43.0268	-76.1784
 location	Orange County	33.689584	-117.788718
 location	Orange County NY	41.394693	-74.289170
 location	Orsay	48.703347	2.187373
 location	Oss	51.762396	5.530563
+location	Pacho	5.135952	-74.156902
+location	Palma de Gandia	38.9251	-0.2215
+location	Palmira	3.534069	-76.297658
 location	Paris	48.853884	2.341738
 location	Passaic County	40.955105	-74.229353
+location	Pereira	4.804771	-75.717885
 location	Perth	-31.942741	115.841171
 location	Pewaukee	43.061507	-88.237950
 location	Phoenix	33.433362	-112.068786
@@ -259,10 +297,12 @@ location	Port Washington	43.382722	-87.885911
 location	Prantij	23.4367	72.8528
 location	Privas	44.723301	4.594575
 location	Putnam County	41.424102	-73.753622
+location	Puzol	39.6153	0.3043
 location	Pu'er	22.807007	100.971896
 location	Qingdao	36.171557	120.398496
 location	Queens	40.717328	-73.795709
 location	Quevaucamps	50.720840	3.289101
+location	Quibdo	5.691789	-76.654649
 location	Quilmes	-34.7206	-58.2546
 location	Racine	42.721147	-87.800333
 location	Ramsau im Zillertal	47.203746	11.876947
@@ -278,7 +318,9 @@ location	Rome	41.881118	12.492817
 location	Rotterdam	51.9244	4.4777
 location	Rouen	49.4432	1.1000
 location	Rovaniemi	66.501553	25.728919
+location	Sabaneta	6.151838	-75.616992
 location	Sacramento County	38.494406	-121.301826
+location	Sagunt	39.6801	-0.2784
 location	Saint Germain en Laye	48.938032	2.094734
 location	Saint-Priest	45.704159	4.949456
 location	Saint-Thibault-des-Vignes	48.862026	2.674513
@@ -291,14 +333,18 @@ location	San Joaquin County	37.917472	-121.258503
 location	San Juan	9.9281	-84.0907
 location	San Mateo County	37.438721	-122.348737
 location	San Francisco	37.757679	-122.440006
-location	Santa Clara County	37.236094	-121.683399
-location	Sao Paulo	-23.551096	-46.634874
 location	San Rafael	10.0145	-84.0986
+location	Santa Clara County	37.236094	-121.683399
+location	Santa Marta	11.234638	-74.192698
+location	Santa Sofía	5.714409	-73.602111
+location	Santana	6.057578	-73.479309
+location	Sao Paulo	-23.551096	-46.634874
 location	Saratoga County	43.0324	-73.9360
 location	Saukville	43.3817	-87.9406
 location	Schenectady County	42.822882	-74.053939
 location	Seattle	47.748301	-121.850150
 location	Seefeld in Tirol	47.329203	11.188798
+location	Segorbe	39.8492	-0.4904
 location	Seine-Port	48.551795	2.551916
 location	Seoul	37.548278	126.990916
 location	Shanghai	31.171447	121.429896
@@ -312,6 +358,7 @@ location	Sistrans	47.231579	11.466706
 location	Skagit County	48.485784	-121.815524
 location	Slinger	43.3336	-88.2862
 location	Snohomish County	48.006	-122.0731
+location	Soacha	4.581264	-74.216815
 location	Solano County	38.295909	-121.928845
 location	Sonoma County	38.506902	-122.863769
 location	South 24 Parganas	22.145444	88.474411
@@ -333,6 +380,7 @@ location	Suzhou	31.289911	120.538521
 location	Sydney	-33.870747	151.208359
 location	Taipei	25.043279	121.565717
 location	Taoyuan	24.951706	121.219785
+location	Tavernes de la Valldigna	39.0734	-0.2644
 location	Tehatta	23.730511	88.527338
 location	Temploux	50.484053	4.753481
 location	Tertre	50.466483	3.811510
@@ -342,11 +390,15 @@ location	Thiensville	43.236206	-87.979679
 location	Thise	47.284553	6.079822
 location	Thurston County	46.935508	-122.867349
 location	Tianmen	30.6510	113.1556
+location	Tierralta	8.171825	-76.060340
 location	Tilburg	51.571419	5.052759
+location	Togüí	5.937829	-73.513494
 location	Tokyo	35.683441	139.766131
 location	Tours	47.404471	0.693908
 location	Trazegnies	50.466074	4.334811
 location	Trempealeau County	44.2398	-91.3662
+location	Trujillo	4.212089	-76.319157
+location	Tuluá	4.092520	-76.197483
 location	Tweed Heads	-28.201312	153.543425
 location	Ulan-Ude	51.827029	107.655954
 location	Ulster County	41.8586	-74.3118
@@ -354,12 +406,14 @@ location	Umatilla County	45.648981	-118.720688
 location	Utrecht	52.0907	5.1214
 location	Valence	44.926123	4.900583
 location	Valencia	39.337	-0.354
+location	Valledupar	10.466023	-73.253272
 location	Vanves	48.821722	2.288675
 location	Venissieux	45.704031	4.882246
 location	Vernon County	43.5577	-90.8294
 location	Verona	45.4384	10.9916
 location	Vienne	48.190041	16.382686
 location	Vila Velha	-20.3472	-40.2823
+location	Villavicencio	4.134000	-73.623483
 location	Villerot	50.485709	3.791108
 location	Wandre	50.667253	5.661576
 location	Wasco County	45.145543	-121.204409
@@ -376,6 +430,7 @@ location	Winona County	43.993965	-91.799960
 location	Wisconsin	44.535145	-89.527762
 location	Woippy	49.154613	6.148404
 location	Wuhan	30.554807	114.271501
+location	Xeraco	39.0331	-0.2163
 location	Xishuangbanna	21.995	100.837
 location	Xinyu	27.8178	114.9173
 location	Yakima County	46.430431	-120.711765
@@ -383,6 +438,7 @@ location	Yangjiang	21.888814	111.972598
 location	Yernee-fraineux	50.528091	5.383570
 location	Yongchuan	29.374774	105.925391
 location	Yorkshire	53.3833	-1.4599
+location	Yumbo	3.525117	-76.502240
 location	Zams	47.159925	10.587413
 location	Zeewolde	52.3311	5.5405
 location	Zhanjiang	21.229510	110.393313
@@ -390,6 +446,7 @@ location	Zhengzhou	34.714074	113.621939
 location	Zhongshan	22.542629	113.390864
 location	Zhongxian	30.323947	108.012855
 location	Zhuhai	22.271346	113.562879
+location	Zipaquirá	5.023869	-73.999449
 
 
 
@@ -462,6 +519,7 @@ division	Bourgogne	47.0525	4.3837
 division	Bourgogne-France-Comté	47.2805	4.9994
 division	Boussu	50.425366	3.797692
 division	Boutersem	50.833781	4.839596
+division	Boyaca	5.454426	-73.362218
 division	Braine-l alleud	50.667307	4.358179
 division	Brasov	45.6580	25.6012
 division	Bratislava	48.1486	17.1077
@@ -477,6 +535,7 @@ division	Bucharest	44.4268	26.1025
 division	Buenos Aires	-34.6037	-58.3816
 division	Burgenland	47.517438	16.468160
 division	Buryat Republic	52.311711	108.916732
+division	Caldas	5.314226	-75.340073
 division	California	36.357039	-119.690182
 division	Cambodia	13	105
 division	Canada	61.0666922	-107.991707
@@ -489,6 +548,7 @@ division	Castilla Y León	41.8357	-4.3976
 division	Catalunya	41.834815	1.606414
 division	Central Hungary	47.360008	19.252798
 division	Centre-Val de Loire	47.481221	1.698793
+division	Cesar	9.654915	-73.528255
 division	Chaineux	50.6317	5.8344
 division	Charleroi	50.418039	4.440646
 division	Chechen Republic	43.4023	45.7187
@@ -499,6 +559,7 @@ division	Chihuahua	28.633	-106.0691
 division	Chillan	-36.6063	-72.1023
 division	Chile	-31.7613364	-71.3187696
 division	China	33.394333	104.689839
+division	Choco	5.705238	-76.890815
 division	Chongqing	29.858721	107.375623
 division	Chungcheongnam	36.685948	126.799198
 division	Ciudad Autonoma de Buenos Aires	-34.6037	-58.3816
@@ -509,12 +570,14 @@ division	Concepcion	-36.8201	-73.0444
 division	Connecticut	41.678117	-72.669773
 division	Constanta	44.1598	28.6348
 division	Copenhagen	55.6761	12.5683
+division	Cordoba	8.359263	-75.763226
 division	Cork	51.895349	-8.474381
 division	Courcelles	50.469378	4.34449
 division	Couthuin	50.5315	5.1225
 division	Couvin	50.035063	4.485139
 division	Coyhaique	-45.5712	-72.0683
 division	Croatia	45.1	15.2
+division	Cundinamarca	5.049758	-74.076048
 division	Czech Republic	49.8175	15.473
 division	Dakar	14.725966	-17.46181
 division	Dalhem	50.71948	5.758129
@@ -615,6 +678,7 @@ division	Hong Kong	22.3964	114.1095
 division	Honnelles	50.350747	3.714603
 division	Houthalen-Helchteren	51.0312	5.3765
 division	Hubei	31.095477	112.676644
+division	Huila	2.545605	-75.524024
 division	Huldenberg	50.7886	4.5881
 division	Hungary	47	20
 division	Iceland	64.9841821	-18.1059012
@@ -639,6 +703,7 @@ division	Jammu	32.7266	74.8570
 division	Jamtland	63.1712	14.9592
 division	Japan	35.68536	139.75309
 division	Jeddah	21.4858	39.1925
+division	Jerusalem District	31.7648	34.9948
 division	Jiangsu	33.077761	119.825116
 division	Jiangxi	27.458973	115.535326
 division	Jordan	31.1667049	36.941628
@@ -703,10 +768,11 @@ division	Lubbeek	50.880093	4.821901
 division	Lucerne	47.0502	8.3093
 division	Lummen	50.995516	5.181081
 division	Luxembourg	49.755428	6.119486
+division	Madhya Pradesh	22.9734	78.6569
 division	Madinah	24.5247	39.5692
 division	Madrid	40.4168	-3.7038
+division	Magdalena	10.258546	-74.366995
 division	Maharashtra	19.7515	75.7139
-division	Madhya Pradesh	22.9734	78.6569
 division	Makkah	21.3891	39.8579
 division	Malaysia	2.3923759	112.8471939
 division	Malopolskie	49.7225	20.2503
@@ -721,6 +787,7 @@ division	Mbour	14.427132	-16.966574
 division	Medellin	6.2486	-75.5742
 division	Melbourne	-37.8136	144.9631
 division	Merelbeke	50.9945	3.7456
+division	Meta	3.275638	-73.120232
 division	Mexico	19.4325301	-99.1332101
 division	Mexico City	19.404497	-99.143041
 division	Michigan	45.021203	-84.762273
@@ -740,6 +807,7 @@ division	Munich	48.144747	11.561739
 division	Myanmar	20.600856	96.287616
 division	Namur	50.457215	4.879493
 division	Nara	34.371026	135.887389
+division	Nariño	1.592142	-77.851790
 division	Nebraska	41.4925	-99.9018
 division	Nepal	28	84
 division	Netherlands	52.1326	5.2913
@@ -758,11 +826,12 @@ division	Nieuwerkerken	50.882291	5.20403
 division	Nigeria	10	8
 division	Nonthaburi	13.852511	100.522791
 division	Normandie	48.8799	0.1713
-division	Normandie	49.05581	0.060987
 division	Norrbotten	66.936364	20.341728
+division	Norte de santander	8.107454	-72.862123
 division	North America	28.2367447	-97.738017
 division	North Brabant	51.4827	5.2322
 division	North Carolina	35.7596	-79.0193
+division	North District	32.8972	35.3027
 division	North Holland	52.5206	4.7885
 division	North Rhine Westphalia	51.44	7.705
 division	Northern Ireland	54.60219	-6.687146
@@ -840,6 +909,7 @@ division	Riga	56.960679	24.10716
 division	Rio de Janeiro	-22.89445	-43.2099
 division	Rio Grande do Sul	-29.615543	-53.220125
 division	Rio Negro	-40.8261	-63.0266
+division	Risaralda	4.921633	-75.900759
 division	Rixensart	50.7156	4.531
 division	Riyadh	23.197563	45.243845
 division	Rome	41.9028	12.4964
@@ -892,6 +962,7 @@ division	Soumagne	50.636363	5.733485
 division	South Africa	-28.8166235	24.991639
 division	South America	-13.083583	-58.470721
 division	South Carolina	33.8361	-81.1637
+division	South District	30.8296	35.0388
 division	South Holland	52.006053	4.485728
 division	South Korea	36.609249	127.917932
 division	South Tyrol	46.762051	11.427443
@@ -917,6 +988,7 @@ division	Tatarstan	56.130014	53.371181
 division	Tbilisi	41.733699	44.818487
 division	Tehran	35.6892	51.3890
 division	Tekirdag	40.9781	27.5117
+division	Tel Aviv District	32.0929	34.8072
 division	Telangana	18.094062	79.141493
 division	Temuco	-38.7359	-72.5904
 division	Teramo	42.6611	13.6987
@@ -934,6 +1006,7 @@ division	Tilburg	51.567213	5.047957
 division	Tipperary	52.4738	-8.1619
 division	Tokat	40.3235	36.5522
 division	Tokyo	35.683441	139.766131
+division	Tolima	4.065944	-75.215716
 division	Touba	14.856713	-15.87911
 division	Toulouse	43.597198	1.431465
 division	Tournai	50.615852	3.400822
@@ -952,6 +1025,7 @@ division	USA	38.916963	-98.891372
 division	Usti nad Labem	50.656527	14.053702
 division	Utah	39.4225192	-111.7143583
 division	Utrecht	52.08532	5.184968
+division	Valle del Cauca	3.747163	-76.415809
 division	Valparaiso	-33.0472	-71.6127
 division	Vastmanland	59.6714	16.2159
 division	Varmland	59.894483	13.209991
@@ -959,6 +1033,7 @@ division	Vastra Gotaland	58.2528	13.0596
 division	Vasterbotten	64.863611	17.7435
 division	Vaud	46.619469	6.472479
 division	Veneto	45.4415	12.3153
+division	Vermont	44.5588	-72.5778
 division	Victoria	-37.121673	144.106178
 division	Vienna	48.2082	16.3738
 division	Vietnam	16.16667	107.83333

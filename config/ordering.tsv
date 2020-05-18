@@ -60,7 +60,9 @@ location	Mansa
 location	Kolkata
 location	Modasa
 location	Dhansura
+location	Dahegam
 location	Prantij
+location	Himatnagar
 location	East Medinipur
 location	South 24 Parganas
 location	Howrah
@@ -150,7 +152,6 @@ location	Montigny le Bretonneux
 location	Dijon
 location	Ploudalmezeau
 location	Ham sous Varsberg
-location	Asnieres sur Seine
 location	Cergy
 location	Guyancourt
 location	Chalon sur Saone
@@ -223,6 +224,26 @@ location	Verona
 location	L'Aquila
 location	Teramo
 location	Valencia
+location	Beniganim
+location	Llutxent
+location	Tavernes de la Valldigna
+location	Gandia
+location	Sagunt
+location	Segorbe
+location	Pala de Gandia
+location	El Puig
+location	Elda
+location	Olleria
+location	Canet d'en Berenguer
+location	Bonrepos i Mirambell
+location	Alboraya
+location	Meliana
+location	Gilet
+location	Albuixech
+location	Xeraco
+location	Oliva
+location	Puzol
+location	Benirredra
 location	Luxembourg
 location	England
 location	South Yorkshire
@@ -234,6 +255,42 @@ location	Nottinghamshire
 location	Cardiff
 location	Rovaniemi
 location	Jönköping
+location	Anserma
+location	Palmira
+location	Togüí
+location	Soacha
+location	Madrid CO
+location	Zipaquirá
+location	Santa Sofía
+location	Ipiales
+location	Quibdo
+location	Pereira
+location	Neiva
+location	Funza
+location	Cali
+location	Buga
+location	Ibagué
+location	Medellín
+location	Envigado
+location	Itagui
+location	Sabaneta
+location	Chocontá
+location	Tuluá
+location	Santa Marta
+location	Trujillo
+location	Andalucía
+location	Jamundí
+location	El cerrito
+location	Santana
+location	Pacho
+location	Tierralta
+location	Montería
+location	Valledupar
+location	Cajicá
+location	Cúcuta
+location	Villavicencio
+location	Chía
+location	Yumbo
 location	Sao Paulo
 location	Brasilia
 location	Rio de Janeiro
@@ -344,6 +401,7 @@ location	Allamakee County
 location	Winneshiek County
 location	Jackson County
 location	Florida
+location	Miramar
 location	Adams County
 location	New Orleans
 location	East Feliciana Parish
@@ -524,6 +582,11 @@ division	Saudi Arabia
 division	Riyadh
 division	Qatar
 division	Israel
+division	Tel Aviv District
+division	North District
+division	Jerusalem District
+division	South Coast District
+division	South District
 division	Jordan
 division	Turkey
 division	Styria
@@ -903,6 +966,20 @@ division	Rio Negro
 division	Distrito Federal
 division	Uruguay
 division	Colombia
+division	Caldas
+division	Valle del Cauca
+division	Boyaca
+division	Cundinamarca
+division	Nariño
+division	Choco
+division	Huila
+division	Tolima
+division	Risaralda
+division	Magdalena
+division	Cordoba
+division	Cesar
+division	Norte de santander
+division	Meta
 division	Amazonas State
 division	Antioquia
 division	Bogota
@@ -942,6 +1019,7 @@ division	New York
 division	New Jersey
 division	Massachusetts
 division	New Hampshire
+division	Vermont
 division	Pennsylvania
 division	Ohio
 division	Indiana
