@@ -87,6 +87,7 @@ location	Riyadh
 location	Hawali
 location	Dasman
 location	Ulan-Ude
+location	Kipen
 location	Bela - Ledec na Sazavou
 location	Ischgl
 location	Innsbruck
@@ -220,7 +221,7 @@ location	Starnberg
 location	Strasbourg
 location	Rome
 location	Milan
-location	Verona
+location	Verona IT
 location	L'Aquila
 location	Teramo
 location	Grau de Sagunt
@@ -316,6 +317,30 @@ location	Cartago
 location	San Juan
 location	Heredia
 location	La Crosse County
+location	Stoughton
+location	Beloit
+location	Belleville
+location	Marshall
+location	Muscoda
+location	Blanchardville
+location	Tomah
+location	Janesville
+location	Holy Cross
+location	Hillpoint
+location	Richland Center
+location	Oregon WI
+location	Cottage Grove
+location	Cross Plains
+location	DeForest
+location	Madison
+location	Chippewa Falls
+location	Monona
+location	Mount Horeb
+location	Sun Prarie
+location	Fitchburg
+location	Waunakee
+location	Spring Green
+location	Middleton
 location	King County
 location	Whatcom County
 location	Yakima County
@@ -333,8 +358,10 @@ location	Benton County
 location	Kittitas County
 location	Seattle
 location	Los Angeles
+location	San Francisco County
 location	California
-location	Columbus
+location	Columbus OH
+location	Columbus WI
 location	Cincinnati
 location	Ketchikan
 location	Fairbanks
@@ -372,6 +399,7 @@ location	Orange County NY
 location	Manhattan
 location	Nassau County
 location	Brooklyn
+location	Brooklyn WI
 location	Queens
 location	Staten Island
 location	Bronx
@@ -400,7 +428,9 @@ location	Fairfield County
 location	Bergen County
 location	Clinton County
 location	Broome County
-location	Jefferson County
+location	Jefferson County WA
+location	Jefferson County NY
+location	Verona WI
 location	Dutchess County
 location	Passaic County
 location	Monroe County
@@ -421,6 +451,7 @@ location	East Baton Rouge Parish
 location	Livingston Parish
 location	Iberville Parish
 location	Pittsburgh
+location	Colorado Springs
 location	Fayette County
 location	Thiensville
 location	Racine
@@ -456,6 +487,8 @@ location	Columbia County
 location	Multnomah County
 location	Wasco County
 location	Accra
+location	Montérégie
+location	Lanaudière
 
 
 
@@ -501,6 +534,7 @@ division	Gyeonggi
 division	Chungcheongnam
 division	Seoul
 division	South Korea
+division	Chattogram
 division	Nepal
 division	Kathmandu
 division	Sri Lanka
@@ -577,6 +611,7 @@ division	Surabaya
 division	India
 division	Bangladesh
 division	Australia
+division	South Australia
 division	Queensland
 division	Northern Territory
 division	New South Wales
@@ -615,6 +650,7 @@ division	Russia
 division	Saint-Petersburg
 division	Moscow
 division	Moscow Region
+division	Leningrad Region
 division	Chelyabinsk Region
 division	Krasnodar Region
 division	Krasnoyarsk Region
@@ -643,6 +679,7 @@ division	Bucharest
 division	Constanta
 division	Brasov
 division	Poland
+division	Wielkopolskie
 division	Dolnoslaskie
 division	Belarus
 division	Estonia
@@ -656,6 +693,7 @@ division	Lithuania
 division	Vilnius
 division	Norway
 division	Oslo
+division	Trondheim
 division	Istria
 division	Serbia
 division	Kraljevo
@@ -937,6 +975,8 @@ division	South Africa
 division	Eastern Cape
 division	KwaZulu-Natal
 division	Gauteng
+division	Mpumalanga
+division	Limpopo
 division	Greater Accra
 division	West Coast Region
 division	Mbour
