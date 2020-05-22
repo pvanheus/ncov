@@ -59,6 +59,11 @@ location	Gandhinagar
 location	Mansa
 location	Kolkata
 location	Modasa
+location	Rajkot
+location	Kodinar
+location	Junagadh
+location	Botad
+location	Una
 location	Dhansura
 location	Dahegam
 location	Prantij
@@ -626,6 +631,7 @@ division	United Arab Emirates
 division	Saudi Arabia
 division	Riyadh
 division	Qatar
+division	Beirut
 division	Israel
 division	Tel Aviv District
 division	North District
@@ -897,8 +903,9 @@ division	Zielonogorskie
 division	Pomorskie
 division	Basel
 division	Basel-Stadt
+division	Basel-Land
 division	Bern
-division	Zurich
+division	Zürich
 division	Aargau
 division	Geneva
 division	Vaud
@@ -952,6 +959,8 @@ division	Jamtland
 division	Vastra Gotaland
 division	Vastmanland
 division	Ostergotland
+division	Kalmar
+division	Jonkoping
 division	Sormland
 division	Varmland
 division	Gavleborgs lan
@@ -1060,6 +1069,8 @@ division	Texas
 division	Missouri
 division	Florida
 division	Georgia
+division	Alabama
+division	Arkansas
 division	Louisiana
 division	North Carolina
 division	South Carolina
@@ -1093,6 +1104,8 @@ division	Oregon
 division	Washington
 division	Hawaii
 division	Puerto Rico
+division	Virgin Islands
+division	Jamaica
 division	Alaska
 division	Canada
 division	Nova Scotia
@@ -1131,6 +1144,7 @@ country	Saudi Arabia
 country	Qatar
 country	United Arab Emirates
 country	Kuwait
+country	Lebanon
 country	Iran
 country	Israel
 country	Jordan
@@ -1189,6 +1203,7 @@ country	Colombia
 country	Panama
 country	Costa Rica
 country	Mexico
+country	Jamaica
 country	USA
 country	Canada
 
