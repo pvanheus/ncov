@@ -695,6 +695,7 @@ division	Bucharest
 division	Constanta
 division	Brasov
 division	Poland
+division	Slask
 division	Wielkopolskie
 division	Dolnoslaskie
 division	Belarus
@@ -915,6 +916,14 @@ division	Basel-Stadt
 division	Basel-Land
 division	Bern
 division	Zürich
+division	Valais
+division	Jura
+division	Thurgau
+division	Sankt Gallen
+division	Uri
+division	Schaffhausen
+division	Glarus
+division	Fribourg
 division	Aargau
 division	Geneva
 division	Vaud
@@ -1027,6 +1036,7 @@ division	Goiais
 division	Minas Gerais
 division	Rio Grande do Sul
 division	Rio de Janeiro
+division	Amapa
 division	Santa Catarina
 division	Alagoas
 division	Argentina
