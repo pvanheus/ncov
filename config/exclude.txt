@@ -664,7 +664,6 @@ USA/FL-UF1/2020
 USA/FL-UF2/2020
 
 
-
 # causes IQTREE error: ERROR: b'ERROR: Sequence Norway_X_X_1539_X_X_2020 has invalid character I at site 20199
 # The GISAID data was subsequently updated => TODO check if this sequence has been fixed
 Norway/1539/2020
@@ -685,8 +684,9 @@ USA/AK-PHL180/2020
 
 #Seems pretty divergent with about 30 mutations
 Colombia/GVI-97181/2020
+Colombia/GUR-0574/2020
 
-# These early Wuhan seem very divergent, and have a cluster of mutations all together. Excluding for now, but may choose to re-include later 
+# These early Wuhan seem very divergent, and have a cluster of mutations all together. Excluding for now, but may choose to re-include later
 Wuhan/WHUH006/2020
 Wuhan/WHUH005/2020
 Wuhan/WHUH004/2020
