@@ -22,6 +22,7 @@ location	Shaoguan
 location	Dongguan
 location	Zhanjiang
 location	Beijing
+location	Meizhou
 location	Fuzhou
 location	Yichun
 location	Yingtan
@@ -31,6 +32,7 @@ location	Fuyang
 location	Chengdu
 location	Kunming
 location	Hangzhou
+location	Changzhou
 location	Guangdong
 location	Lishui
 location	Shenzhen
@@ -66,6 +68,8 @@ location	Modasa
 location	Rajkot
 location	Kodinar
 location	Jaipur
+location	North 24 Parganas
+location	Bikaner
 location	Junagadh
 location	Jamnagar
 location	Mandsaur
@@ -248,10 +252,16 @@ location	Bergamo
 location	Milan
 location	Verona IT
 location	L'Aquila
+location	Simat de la Valldigna
 location	Teramo
 location	Grau de Sagunt
 location	Valencia
 location	Valencia Horta
+location	Almassera
+location	Almenara
+location	Soneja
+location	Albal
+location	Museros
 location	Beniganim
 location	Llutxent
 location	Tavernes de la Valldigna
@@ -377,6 +387,12 @@ location	Joinville
 location	Maceio
 location	Manaus
 location	Feira de Santana
+location	Nova Iguacu
+location	Itaborai
+location	Belford Roxo
+location	Duque de Caxias
+location	Petropolis
+location	Teresopolis
 location	Vila Velha
 location	Mexico City
 location	San Rafael de Alajuela
@@ -511,6 +527,7 @@ location	Miramar
 location	Adams County WA
 location	Adams County WI
 location	New Orleans
+location	Panola County
 location	Morehouse Parish
 location	Tensas Parish
 location	Rapides Parish
@@ -519,6 +536,10 @@ location	Grant Parish
 location	DeSoto Parish
 location	East Feliciana Parish
 location	Caddo Parish
+location	Assumption Parish
+location	St Tammany Parish
+location	Jefferson Parish
+location	St Bernard Parish
 location	Webster Parish
 location	Bienville Parish
 location	East Baton Rouge Parish
@@ -530,6 +551,9 @@ location	Alameda County
 location	Humboldt County
 location	San Luis Obispo County
 location	Fayette County
+location	Buchanan County
+location	Crawford County
+location	Fillmore County
 location	Thiensville
 location	Racine
 location	Cudahy
@@ -580,7 +604,6 @@ division	Jiangxi
 division	Chongqing
 division	Hangzhou
 division	Sichuan
-division	Meizhou
 division	Yunnan
 division	Jiangsu
 division	Shandong
@@ -592,6 +615,8 @@ division	Hong Kong
 division	Taiwan
 division	Samut Prakarn
 division	Pathum Thani
+division	Nakhonnayok
+division	Trang
 division	Taipei
 division	New Taipei City
 division	Philippines
@@ -601,6 +626,7 @@ division	Taoyuan
 division	Aichi
 division	Tokyo
 division	Japan
+division	Diamond Princess
 division	Kanto
 division	Chiba
 division	Ishikawa
@@ -671,6 +697,7 @@ division	Tbilisi
 division	Vietnam
 division	Thanh Hoa
 division	Ho Chi Minh City
+division	Quangninh
 division	Hanoi
 division	Vinhphuc
 division	Red River Delta
@@ -1058,6 +1085,7 @@ division	Halland
 division	Czech Republic
 division	Sweden
 division	Stockholm
+division	Orebro
 division	Uppsala
 division	Dalarna
 division	Skane
@@ -1221,6 +1249,7 @@ division	Idaho
 division	Montana
 division	California
 division	Grand Princess
+division	Grand Princess 2nd cruise
 division	Oregon
 division	Washington
 division	Hawaii
