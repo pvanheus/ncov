@@ -12,6 +12,9 @@ division	Nelson Marlborough
 division	Waitemata
 division	Midcentral
 
+
+
+
 location	Wuhan
 location	Tianmen
 location	Hefei
@@ -327,7 +330,7 @@ location	Rincon de la Victoria
 location	Almeria
 location	Torremolinos
 location	Benajarafe
-location	Velez_Malaga
+location	Velez Malaga
 location	Antequera
 location	Olleria
 location	Canet d'en Berenguer
@@ -491,7 +494,8 @@ location	San Joaquin County
 location	Sacramento County
 location	Santa Clara County
 location	Davis
-location	Grant County
+location	Grant County WA
+location	Grant County WI
 location	Snohomish County
 location	King County
 location	Clark County
@@ -760,6 +764,10 @@ division	Otago
 division	Auckland
 division	United Arab Emirates
 division	Muscat
+division	North Batinah
+division	South Batinah
+division	Dakhiliyah
+division	Buraimi
 division	Saudi Arabia
 division	Riyadh
 division	Qatar
@@ -1072,6 +1080,7 @@ division	Graubünden
 division	Schwyz
 division	Comunitat Valenciana
 division	Athens
+division	Sardinia
 division	Komen
 division	Italy
 division	Italian cruise ship
@@ -1150,6 +1159,7 @@ division	Gambia
 division	Algeria
 division	Lagos
 division	Uganda
+division	Kenya
 division	Democratic Republic of the Congo
 division	Kinshasa
 division	Sud Kivu
@@ -1379,6 +1389,7 @@ country	Portugal
 country	Greece
 country	Egypt
 country	Nigeria
+country	Kenya
 country	Ghana
 country	Senegal
 country	Gambia
@@ -1407,9 +1418,9 @@ recency	3-7 days ago
 recency	1-2 days ago
 recency	New
 
-region	Oceania
 region	Asia
-region	Africa
+region	Oceania
 region	Europe
-region	North America
+region	Africa
 region	South America
+region	North America
