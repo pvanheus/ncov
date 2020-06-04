@@ -14,7 +14,6 @@ division	Midcentral
 
 
 
-
 location	Wuhan
 location	Tianmen
 location	Hefei
@@ -85,6 +84,8 @@ location	Modasa
 location	Rajkot
 location	Kodinar
 location	Jaipur
+location	Khedbrahma
+location	Bayad
 location	North 24 Parganas
 location	Bikaner
 location	Junagadh
@@ -247,6 +248,26 @@ location	Montignies-Sur-Sambre
 location	Tertre
 location	Heverlee
 location	Kain
+location	Wespelaar
+location	Molenstede
+location	Kaggevinne
+location	Sterrebeek
+location	Luttre
+location	Givry
+location	Wilrijk
+location	Ramsel
+location	Baudour
+location	Neufmaison
+location	Veltem-beisem
+location	Shape
+location	Flénu
+location	Ghlin
+location	Lotenhulle
+location	Thulin
+location	Wilsele
+location	Paal
+location	Wadelincourt
+location	Grand-Leez
 location	Winksele
 location	Jemappes
 location	Bassilly
@@ -672,6 +693,7 @@ division	Chattogram
 division	Nepal
 division	Kathmandu
 division	Sri Lanka
+division	Pasuruan
 division	Selangor
 division	Kuala Lumpur
 division	Uttar Pradesh
@@ -974,6 +996,30 @@ division	Havelange
 division	Fontaine-l Eveque
 division	Lummen
 division	Mons
+division	Bury
+division	Overijse
+division	Scherpenheuvel-Zichem
+division	Jette
+division	Geetbets
+division	Dour
+division	Seneffe
+division	Machelen
+division	Laken
+division	Mepel
+division	Le roeulx
+division	Temse
+division	Jurbise
+division	Edingen
+division	Madegem
+division	Morlanwelz
+division	Malle
+division	Aarschot
+division	Tessenderlo
+division	Vlaams-Brabant
+division	Henegouwen
+division	Aalter
+division	Hensies
+division	Beloeil
 division	Boussu
 division	Tienen
 division	Grimbergen
@@ -1156,7 +1202,13 @@ division	Oyo State
 division	Ghana
 division	Senegal
 division	Gambia
+division	Morocco
+division	Casablanca
+division	Tunisia
+division	Bizerte
+division	Ben Arous
 division	Algeria
+division	Ouarzazate
 division	Lagos
 division	Uganda
 division	Kenya
@@ -1179,6 +1231,8 @@ division	Thies
 division	Blida
 division	Boufarik
 division	Chile
+division	Puerto Natales
+division	Vina del Mar
 division	Antofagasta
 division	Chillan
 division	Concepcion
@@ -1203,6 +1257,8 @@ division	Rio de Janeiro
 division	Amapa
 division	Santa Catarina
 division	Alagoas
+division	Acre
+division	Maranhao
 division	Argentina
 division	Ciudad Autonoma de Buenos Aires
 division	Buenos Aires
@@ -1394,6 +1450,8 @@ country	Ghana
 country	Senegal
 country	Gambia
 country	Algeria
+country	Tunisia
+country	Morocco
 country	Uganda
 country	Democratic Republic of the Congo
 country	South Africa
@@ -1420,7 +1478,7 @@ recency	New
 
 region	Asia
 region	Oceania
-region	Europe
 region	Africa
+region	Europe
 region	South America
 region	North America
