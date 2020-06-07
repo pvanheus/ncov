@@ -1,17 +1,3 @@
-division	Cali
-division	Waikato
-division	Southern
-division	MidCentral
-division	Combined Wellington
-division	Lakes
-division	Wairarapa
-division	Bay of Plenty
-division	Counties Manukau
-division	Canterbury
-division	Nelson Marlborough
-division	Waitemata
-division	Midcentral
-
 
 
 location	Wuhan
@@ -788,6 +774,17 @@ division	Guam
 division	New Zealand
 division	Otago
 division	Auckland
+division	Waikato
+division	Southern
+division	MidCentral
+division	Combined Wellington
+division	Lakes
+division	Wairarapa
+division	Bay of Plenty
+division	Counties Manukau
+division	Canterbury
+division	Nelson Marlborough
+division	Waitemata
 division	United Arab Emirates
 division	Muscat
 division	North Batinah
@@ -1079,6 +1076,7 @@ division	North Rhine Westphalia
 division	Netherlands
 division	Milheeze
 division	Utrecht
+division	Zeeland
 division	Deinze
 division	Antwerp
 division	Ellezelles
@@ -1273,6 +1271,7 @@ division	Uruguay
 division	Colombia
 division	Meta
 division	Caldas
+division	Cali
 division	Valle del Cauca
 division	Cauca
 division	Quindio
