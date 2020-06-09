@@ -20,7 +20,6 @@ location	Zhongshan
 location	Shanwei
 location	Yangjiang
 location	Shaoguan
-division	Guangzhou
 location	Dongguan
 location	Zhanjiang
 location	Beijing
@@ -36,7 +35,6 @@ location	Chengdu
 location	Kunming
 location	Hangzhou
 location	Changzhou
-location	Guangdong
 location	Lishui
 location	Shenzhen
 location	Zhuhai
@@ -142,6 +140,7 @@ location	Heinsberg District
 location	Heinsberg
 location	Munich
 location	Duesseldorf
+location	Münster
 location	Delft
 location	Utrecht
 location	Zeeland
@@ -343,7 +342,6 @@ location	Dalhem
 location	Lubbeek
 location	Hemiksem
 location	Sint-Gillis-Waas
-location	Herent
 location	Silly
 location	Wervik
 location	Pelt
@@ -626,7 +624,6 @@ location	Monteria
 location	Valledupar
 location	Cajica
 location	Villavicencio
-location	Chía
 location	Yumbo
 location	Sao Paulo
 location	Brasilia
@@ -872,12 +869,10 @@ division	Samut Prakarn
 division	Pathum Thani
 division	Nakhonnayok
 division	Trang
-division	Taipei
 division	New Taipei City
 division	Philippines
 division	Manila
 division	Keelung
-division	Taoyuan
 division	Aichi
 division	Tokyo
 division	Japan
@@ -953,6 +948,7 @@ division	Tbilisi
 division	Vietnam
 division	Thanh Hoa
 division	Ho Chi Minh City
+division	Lao Cai
 division	Quangninh
 division	Hanoi
 division	Vinhphuc
@@ -1110,6 +1106,22 @@ division	Bekesszentandras
 division	Szeged
 division	Kostoliste
 division	Kosice
+division	Bosnia and Herzegovina
+division	Bihac
+division	Čelinac
+division	Breza
+division	Cazin
+division	Vitez
+division	Gorazde
+division	Gornji Vakuf
+division	Ilijas
+division	Ilidza
+division	Kakanj
+division	Livno
+division	Maglaj
+division	Novi Travnik
+division	Sarajevo
+division	Zepce
 division	Slovakia
 division	Bratislava
 division	Malopolskie
@@ -1139,21 +1151,17 @@ division	Castilla Y León
 division	Basque Country
 division	Castilla La Mancha
 division	Andalusia
+division	Asturias
 division	Navarra
 division	Catalunya
 division	Castilla y Leon
 division	Barcelona
 division	Galicia
 division	Madrid
-division	Flanders
 division	Soignies
-division	Berchem-Sainte-Agathe
 division	Auderghem
 division	La Louvière
-division	Uccle
 division	Tournai
-division	Quévy
-division	Walloon Brabant
 division	Belgium
 division	Leuven
 division	Philippeville
@@ -1191,20 +1199,8 @@ division	Ieper
 division	Tielt
 division	Verviers
 division	Liège
-division	Henri-Chapelle
-division	Ixelles
-division	Fontaine-l'Évêque
 division	Mepel
-division	Le Roeulx
-division	Enghien
-division	Maldegem
-division	Vlaams-Brabant
-division	Henegouwen
-division	Watermael-Boitsfort
-division	Braine-l'Alleud
-division	Woluwe-Saint-Pierre
 division	Saint-Saulve
-division	Helden
 division	Switzerland
 division	Lucerne
 division	Bavaria
@@ -1223,8 +1219,6 @@ division	Kaulille
 division	Gent
 division	Overijssel
 division	Gelderland
-division	Limbourg
-division	Limburg BE
 division	Drenthe
 division	North Brabant
 division	Leiden
@@ -1278,7 +1272,6 @@ division	Valle D'Aosta
 division	Basilicata
 division	Abruzzo
 division	Apulia
-division	Rome
 division	Teramo
 division	Veneto
 division	Verona
@@ -1556,6 +1549,7 @@ country	Europe
 country	Latvia
 country	Slovakia
 country	Slovenia
+country	Bosnia and Herzegovina
 country	Poland
 country	Belarus
 country	Estonia
