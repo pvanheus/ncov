@@ -1,4 +1,3 @@
-
 location	Wuhan
 location	Tianmen
 location	Hefei
@@ -72,6 +71,8 @@ location	Surat
 location	Gandhinagar
 location	Mansa
 location	Kolkata
+location	Kadi
+location	Kalol
 location	Modasa
 location	Rajkot
 location	Kodinar
@@ -81,6 +82,8 @@ location	Bayad
 location	North 24 Parganas
 location	Bikaner
 location	Junagadh
+location	Manado
+location	Samarinda
 location	Jamnagar
 location	Mandsaur
 location	Neemach
@@ -472,7 +475,6 @@ location	Seine-Port
 location	Abondant
 location	Levallois-Perret
 location	Reims
-location	Garches
 location	Rennes
 location	Longjumeau
 location	Levallois-perret
@@ -562,6 +564,38 @@ location	La Linea de la Concepcion
 location	Conil de la Frontera
 location	Madrid
 location	Malaga
+location	Santiago de Compostela
+location	Ames
+location	Ambite
+location	Boiro
+location	Boqueixón
+location	Campo Real
+location	Cordoba
+location	Granada
+location	La Estrada
+location	Las Palmas
+location	Lalin
+location	Leganés
+location	Negreira
+location	Noia
+location	Manacor
+location	Marratxí
+location	Muros
+location	Oroso
+location	Padrón
+location	Palma
+location	Rianjo
+location	Ribeira
+location	Queimados
+location	Rio San Pedro
+location	Rivas-Vaciamadrid
+location	Santa Comba
+location	Santa Fe
+location	Tarifa
+location	Teo
+location	Valdaracete
+location	Valga
+location	Valderrubio
 location	Jerez De La Frontera
 location	Alhaurin de la Torre
 location	Chilches
@@ -737,8 +771,6 @@ location	Santa Clara County
 location	Davis
 location	Grant County WA
 location	Grant County WI
-location	Snohomish County
-location	King County
 location	Clark County
 location	Umatilla County
 location	Phoenix
@@ -819,6 +851,7 @@ location	East Baton Rouge Parish
 location	Livingston Parish
 location	Iberville Parish
 location	Pittsburgh
+location	St. Louis MO
 location	Colorado Springs
 location	Alameda County
 location	Humboldt County
@@ -947,6 +980,8 @@ division	Odisha
 division	Kargil
 division	Telangana
 division	Karnataka
+division	North Sulawesi
+division	East Kalimantan
 division	Gujarat
 division	Rajasthan
 division	Kerala
@@ -1092,7 +1127,6 @@ division	Republic of Kabardino-Balkaria
 division	Republic of Crymea
 division	Republic of Tatarstan
 division	Slovenia
-division	Bucharest
 division	Arges
 division	Buzau
 division	Constanta
@@ -1163,12 +1197,10 @@ division	Zepce
 division	Slovakia
 division	Bratislava
 division	Malopolskie
-division	Czech Republic
 division	Prague
 division	Vysocina Region
 division	Martin
 division	Copenhagen
-division	Bretagne
 division	Ile de France
 division	Occitanie
 division	Centre-Val de Loire
@@ -1196,7 +1228,7 @@ division	Castilla y Leon
 division	Barcelona
 division	Galicia
 division	Madrid
-division	Soignies
+division	Balear Islands
 division	Auderghem
 division	La Louvière
 division	Tournai
@@ -1245,7 +1277,6 @@ division	Bavaria
 division	Duesseldorf
 division	Baden-Wuerttemberg
 division	Munich
-division	Frankfurt
 division	Rostock
 division	North Rhine Westphalia
 division	Netherlands
@@ -1254,7 +1285,6 @@ division	Utrecht
 division	Zeeland
 division	Antwerpen
 division	Kaulille
-division	Gent
 division	Overijssel
 division	Gelderland
 division	Drenthe
@@ -1288,6 +1318,8 @@ division	Glarus
 division	Fribourg
 division	Aargau
 division	Geneva
+division	Solothurn
+division	Zug
 division	Vaud
 division	Ticino
 division	Graubünden
