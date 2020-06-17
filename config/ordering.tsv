@@ -4,7 +4,7 @@ location	Hefei
 location	Jingzhou
 location	Jiujiang
 location	Jian
-location	Pu'er
+location	Pu'Er
 location	Xinyu
 location	Shangrao
 location	Ganzhou
@@ -101,6 +101,10 @@ location	East Medinipur
 location	South 24 Parganas
 location	Howrah
 location	Tehatta
+location	Nadiad
+location	Kapadvanj
+location	Mahemdavad
+location	Dhanera
 location	Darjeeling
 location	Singapore
 location	Gold Coast
@@ -129,7 +133,7 @@ location	Olsztyn
 location	Warszawa
 location	Radom
 location	Kalisz
-location	Bela - Ledec na Sazavou
+location	Bela - Ledec Na Sazavou
 location	Ischgl
 location	Innsbruck
 location	Matrei am Brenner
@@ -464,7 +468,7 @@ location	Nogent-l'Artaud
 location	Montigny le Bretonneux
 location	Dijon
 location	Ploudalmezeau
-location	Ham sous Varsberg
+location	Ham Sous Varsberg
 location	Cergy
 location	Guyancourt
 location	Chalon sur Saone
@@ -490,7 +494,7 @@ location	Orsay
 location	Saint-Thibault-des-Vignes
 location	Gennevilliers
 location	Noisy le Roi
-location	Gondrecourt-le-chateau
+location	Gondrecourt-le-Chateau
 location	Moussy Le Neuf
 location	Carentan
 location	Contamines
@@ -563,6 +567,7 @@ location	Algeciras
 location	La Linea de la Concepcion
 location	Conil de la Frontera
 location	Madrid
+location	A Coruna
 location	Malaga
 location	Santiago de Compostela
 location	Ames
@@ -584,6 +589,15 @@ location	Muros
 location	Oroso
 location	Padrón
 location	Palma
+location	Alcaniz
+location	Alcudia
+location	Ibiza
+location	Llubi
+location	Lluchmayor
+location	Santa Maria del Camino
+location	Son Servera
+location	Teruel
+location	Zaragoza
 location	Rianjo
 location	Ribeira
 location	Queimados
@@ -648,6 +662,10 @@ location	Cienaga
 location	Tumaco
 location	Bello
 location	Leticia
+location	Chillan
+location	Santiago
+location	Copiapo
+location	Huasco
 location	Manizales
 location	Cucuta
 location	Cartagena
@@ -667,7 +685,7 @@ location	Santa Marta
 location	Trujillo
 location	Andalucia
 location	Jamundi
-location	El cerrito
+location	El Cerrito
 location	Santana
 location	Pacho
 location	Tierralta
@@ -687,6 +705,12 @@ location	Niteroi
 location	Joinville
 location	Maceio
 location	Manaus
+location	Diadema
+location	Rio Claro
+location	Sao Bernardo do Campo
+location	Caieiras
+location	Maua
+location	Hortolandia
 location	Feira de Santana
 location	Nova Iguacu
 location	Itaborai
@@ -717,7 +741,7 @@ location	Richland Center
 location	Oregon WI
 location	Cottage Grove
 location	Cross Plains
-location	DeForest
+location	Deforest
 location	Madison
 location	Chippewa Falls
 location	Monona
@@ -727,6 +751,8 @@ location	Fitchburg
 location	Waunakee
 location	Spring Green
 location	Middleton
+location	Ventura County
+location	Contra Costa County
 location	King County
 location	Monterey County CA
 location	Whatcom County
@@ -880,6 +906,16 @@ location	Hartford
 location	Meriden
 location	Madison CT
 location	New Haven
+location	Stratford
+location	Shelton
+location	New Fairfield
+location	Bridgeport
+location	Port Chester
+location	North-Branford
+location	Waterbury
+location	Mount-Vernon
+location	Milford
+location	Bridgeport
 location	Bethany
 location	Newtown
 location	Wallingford
@@ -1064,7 +1100,7 @@ division	Otago
 division	Auckland
 division	Waikato
 division	Southern
-division	MidCentral
+division	Midcentral
 division	Combined Wellington
 division	Lakes
 division	Wairarapa
@@ -1224,6 +1260,7 @@ division	Grand Est
 division	Toulouse
 division	Auvergne Rhone Alpes
 division	Spain
+division	Aragon
 division	Melilla
 division	Castilla Y León
 division	Basque Country
@@ -1345,7 +1382,7 @@ division	Marche
 division	Lombardy
 division	Emilia-Romagna
 division	Molise
-division	PA Trento
+division	Pa Trento
 division	Sicily
 division	Valle D'Aosta
 division	Basilicata
@@ -1395,7 +1432,7 @@ division	Jonkoping
 division	Sormland
 division	Varmland
 division	Gavleborgs lan
-division	Orebro lan
+division	Orebro Lan
 division	Norrbotten
 division	Greece
 division	Finland
@@ -1444,6 +1481,8 @@ division	Puerto Natales
 division	Vina del Mar
 division	Antofagasta
 division	Chillan
+division	Copiapo
+division	Huasco
 division	Concepcion
 division	Rancagua
 division	Valparaiso
@@ -1566,6 +1605,7 @@ division	Wyoming
 division	Idaho
 division	Montana
 division	California
+division	Oklahoma
 division	Kentucky
 division	Grand Princess
 division	Grand Princess 2nd cruise
