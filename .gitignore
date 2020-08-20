@@ -6,9 +6,8 @@ results/
 build/
 auspice/
 data/*
-config/colors.tsv
-data/raw
-config/colors_*.tsv
+defaults/colors.tsv
+defaults/colors_*.tsv
 stats.json
 
 # Sensitive environment variables
@@ -49,3 +48,4 @@ Thumbs.db
 *~
 
 narratives/*pdf
+data/raw
